@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ContinueStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.Statement" />
+  <root>
+    <file name="QueriesGenerated.java">
+      <unit at="25,0,159,0" name="FunctionContract.generator.VerifiableFunctionCall.QueriesGenerated" />
+    </file>
+  </root>
+  <root nodeRef="r:96b0e7fc-b25f-423d-be1d-3c002b6a784d(FunctionContract.generator.VerifiableFunctionCall@generator)/3640257769781410511">
+    <file name="QueriesGenerated.java">
+      <node id="3640257769781607379" at="79,103,80,18" concept="6" />
+      <node id="3640257769781607383" at="80,18,81,0" concept="9" />
+      <node id="3640257769781607387" at="82,241,83,0" concept="9" />
+      <node id="3640257769781607396" at="84,266,85,65" concept="8" />
+      <node id="3640257769781607398" at="85,65,86,217" concept="6" />
+      <node id="3640257769781607412" at="88,256,89,21" concept="1" />
+      <node id="3640257769781607419" at="90,11,91,59" concept="8" />
+      <node id="3640257769781607421" at="91,59,92,53" concept="8" />
+      <node id="3640257769781607441" at="95,653,96,260" concept="6" />
+      <node id="3640257769781607447" at="96,260,97,196" concept="2" />
+      <node id="3640257769781607453" at="97,196,98,205" concept="2" />
+      <node id="3640257769781607459" at="98,205,99,105" concept="2" />
+      <node id="3640257769781607463" at="99,105,100,406" concept="2" />
+      <node id="3640257769781607472" at="100,406,101,0" concept="9" />
+      <node id="3640257769781607484" at="104,11,105,0" concept="9" />
+      <node id="3640257769781607488" at="106,9,107,0" concept="9" />
+      <node id="3640257769781607489" at="107,0,108,0" concept="9" />
+      <node id="3640257769781607490" at="108,0,109,0" concept="9" />
+      <node id="3640257769781607491" at="109,0,110,16" concept="2" />
+      <node id="3640257769781607494" at="110,16,111,216" concept="6" />
+      <node id="3640257769781607519" at="115,521,116,49" concept="8" />
+      <node id="3640257769781607523" at="117,380,118,251" concept="6" />
+      <node id="3640257769781607529" at="118,251,119,222" concept="2" />
+      <node id="3640257769781607537" at="119,222,120,214" concept="2" />
+      <node id="3640257769781607545" at="120,214,121,68" concept="2" />
+      <node id="3640257769781607559" at="122,17,123,0" concept="9" />
+      <node id="3640257769781607560" at="123,0,124,50" concept="8" />
+      <node id="3640257769781607564" at="125,378,126,67" concept="8" />
+      <node id="3640257769781607566" at="126,67,127,261" concept="6" />
+      <node id="3640257769781607572" at="127,261,128,531" concept="2" />
+      <node id="3640257769781607584" at="128,531,129,188" concept="2" />
+      <node id="3640257769781607592" at="129,188,130,70" concept="2" />
+      <node id="3640257769781607597" at="130,70,131,248" concept="6" />
+      <node id="3640257769781607603" at="131,248,132,190" concept="2" />
+      <node id="3640257769781607609" at="132,190,133,253" concept="6" />
+      <node id="3640257769781607615" at="133,253,134,222" concept="2" />
+      <node id="3640257769781607623" at="134,222,135,221" concept="2" />
+      <node id="3640257769781607631" at="135,221,136,264" concept="6" />
+      <node id="3640257769781607637" at="136,264,137,204" concept="2" />
+      <node id="3640257769781607643" at="137,204,138,78" concept="2" />
+      <node id="3640257769781607648" at="138,78,139,0" concept="9" />
+      <node id="3640257769781607649" at="139,0,140,74" concept="8" />
+      <node id="3640257769781607651" at="140,74,141,95" concept="2" />
+      <node id="3640257769781607658" at="141,95,142,0" concept="9" />
+      <node id="3640257769781607659" at="142,0,143,64" concept="8" />
+      <node id="3640257769781607661" at="143,64,144,251" concept="6" />
+      <node id="3640257769781607667" at="144,251,145,221" concept="2" />
+      <node id="3640257769781607675" at="145,221,146,213" concept="2" />
+      <node id="3640257769781607683" at="146,213,147,216" concept="2" />
+      <node id="3640257769781607691" at="147,216,148,69" concept="2" />
+      <node id="3640257769781607718" at="154,7,155,0" concept="9" />
+      <node id="3640257769781607410" at="87,32,90,11" concept="4" />
+      <node id="3640257769781607521" at="116,49,122,17" concept="4" />
+      <node id="3640257769781607439" at="94,399,102,15" concept="4" />
+      <node id="3640257769781607429" at="93,217,103,13" concept="3" />
+      <node id="3640257769781607423" at="92,53,104,11" concept="3" />
+      <node id="3640257769781607406" at="86,217,106,9" concept="4" />
+      <node id="3640257769781607562" at="124,50,149,17" concept="4" />
+      <node id="3640257769781607517" at="114,399,150,15" concept="4" />
+      <node id="3640257769781607507" at="113,217,151,13" concept="3" />
+      <node id="3640257769781607504" at="112,27,152,11" concept="3" />
+      <node id="3640257769781607502" at="111,216,153,9" concept="4" />
+      <node id="3640257769781607388" at="83,0,154,7" concept="3" />
+      <node id="3640257769781607384" at="81,0,156,5" concept="3" />
+      <scope id="3640257769781607411" at="88,256,89,21" />
+      <scope id="3640257769781607522" at="117,380,121,68">
+        <var name="cfpre" id="3640257769781607524" />
+      </scope>
+      <scope id="3640257769781607440" at="95,653,101,0">
+        <var name="assumeConditions" id="3640257769781607442" />
+      </scope>
+      <scope id="3640257769781607438" at="94,399,102,15" />
+      <scope id="3640257769781607428" at="93,217,103,13" />
+      <scope id="3640257769781607429" at="93,217,103,13">
+        <var name="fcontract" id="3640257769781607430" />
+      </scope>
+      <scope id="3640257769781607423" at="92,53,104,11">
+        <var name="ch" id="3640257769781607424" />
+      </scope>
+      <scope id="3640257769781607407" at="87,32,105,0" />
+      <scope id="3640257769781607563" at="125,378,148,69">
+        <var name="assignexpr" id="3640257769781607610" />
+        <var name="assignstatement" id="3640257769781607632" />
+        <var name="cfpost" id="3640257769781607662" />
+        <var name="tempdec" id="3640257769781607567" />
+        <var name="tempref" id="3640257769781607598" />
+      </scope>
+      <scope id="3640257769781607518" at="115,521,149,17" />
+      <scope id="3640257769781607516" at="114,399,150,15" />
+      <scope id="3640257769781607506" at="113,217,151,13" />
+      <scope id="3640257769781607507" at="113,217,151,13">
+        <var name="fcontract" id="3640257769781607508" />
+      </scope>
+      <scope id="3640257769781607503" at="112,27,152,11" />
+      <scope id="3640257769781607504" at="112,27,152,11">
+        <var name="ch" id="3640257769781607505" />
+      </scope>
+      <scope id="3640257769781607395" at="84,266,153,9">
+        <var name="fcaller" id="3640257769781607399" />
+        <var name="st" id="3640257769781607495" />
+      </scope>
+      <scope id="3640257769781607388" at="83,0,154,7">
+        <var name="fcall" id="3640257769781607389" />
+      </scope>
+      <scope id="3640257769781607386" at="82,241,155,0" />
+      <scope id="3640257769781607384" at="81,0,156,5">
+        <var name="im" id="3640257769781607385" />
+      </scope>
+      <scope id="3640257769781410513" at="79,103,156,5">
+        <var name="index" id="3640257769781607380" />
+      </scope>
+    </file>
+  </root>
+  <root nodeRef="r:96b0e7fc-b25f-423d-be1d-3c002b6a784d(FunctionContract.generator.VerifiableFunctionCall@generator)/6563710535924448768">
+    <file name="QueriesGenerated.java">
+      <node id="598028305532956377" at="28,109,29,376" concept="7" />
+      <node id="598028305532964803" at="31,109,32,373" concept="7" />
+      <node id="4686410186993657585" at="34,110,35,785" concept="7" />
+      <node id="5016697297431648102" at="39,602,40,644" concept="2" />
+      <node id="598028305537035462" at="42,12,43,517" concept="2" />
+      <node id="5016697297431716934" at="44,5,45,0" concept="9" />
+      <node id="3452445183878831755" at="45,0,46,358" concept="7" />
+      <node id="7519962224660393578" at="48,108,49,881" concept="2" />
+      <node id="7519962224660467481" at="49,881,50,357" concept="7" />
+      <node id="4569257597362068982" at="52,108,53,200" concept="7" />
+      <node id="5016697297431723102" at="55,108,56,222" concept="7" />
+      <node id="598028305532971979" at="58,107,59,222" concept="7" />
+      <node id="7519962224660440974" at="61,108,62,227" concept="6" />
+      <node id="7519962224660440992" at="64,35,65,252" concept="2" />
+      <node id="7519962224660441003" at="67,7,68,15" concept="7" />
+      <node id="4686410186993733567" at="70,108,71,188" concept="7" />
+      <node id="4686410186993737851" at="73,108,74,189" concept="7" />
+      <node id="4569257597362066617" at="76,120,77,200" concept="7" />
+      <node id="598028305537034933" at="42,10,44,5" concept="0" />
+      <node id="5016697297431626417" at="38,190,41,7" concept="3" />
+      <node id="7519962224660440990" at="64,0,67,0" concept="5" trace="visit#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="7519962224660440982" at="62,227,67,7" concept="2" />
+      <node id="598028305532994905" at="37,108,44,5" concept="4" />
+      <scope id="598028305532955765" at="28,109,29,376" />
+      <scope id="598028305532964475" at="31,109,32,373" />
+      <scope id="4686410186993656935" at="34,110,35,785" />
+      <scope id="5016697297431626423" at="39,602,40,644" />
+      <scope id="598028305537034934" at="42,12,43,517" />
+      <scope id="4569257597362068976" at="52,108,53,200" />
+      <scope id="4569257597362510756" at="55,108,56,222" />
+      <scope id="598028305532971941" at="58,107,59,222" />
+      <scope id="7519962224660440991" at="64,35,65,252" />
+      <scope id="4686410186993715619" at="70,108,71,188" />
+      <scope id="4686410186993737850" at="73,108,74,189" />
+      <scope id="4569257597362066611" at="76,120,77,200" />
+      <scope id="7519962224660388997" at="48,108,50,357" />
+      <scope id="5016697297431626417" at="38,190,41,7">
+        <var name="aref" id="5016697297431626419" />
+      </scope>
+      <scope id="598028305532994908" at="38,190,41,7" />
+      <scope id="7519962224660440990" at="64,0,67,0">
+        <var name="it" id="7519962224660440990" />
+      </scope>
+      <scope id="7519962224660440973" at="61,108,68,15">
+        <var name="res" id="7519962224660440975" />
+      </scope>
+      <scope id="6563710535926535334" at="37,108,46,358" />
+      <unit id="7519962224660440990" at="63,250,67,5" name="FunctionContract.generator.VerifiableFunctionCall.QueriesGenerated$1" />
+    </file>
+  </root>
+</debug-info>
+

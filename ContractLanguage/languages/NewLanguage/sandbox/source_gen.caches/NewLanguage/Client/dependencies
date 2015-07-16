@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="NewLanguage.Client.Client" file="Client.c" />
+  <dependency className="NewLanguage.Client.Client" file="Client.h" />
+  <dependency className="NewLanguage.Client.Makefile" file="Makefile" />
+  <dependency className="NewLanguage.Client.SomeFuncs" file="SomeFuncs.c" />
+  <dependency className="NewLanguage.Client.SomeFuncs" file="SomeFuncs.h" />
+  <dependency className="NewLanguage.Client.TypeSizeConfiguration (N.Client)" file="TypeSizeConfiguration (N.Client)" />
+</dependenciesRoot>
+

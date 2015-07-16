@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="com.mbeddr.core.expressions.structure.AssignmentExpr" />
+  <concept fqn="com.mbeddr.core.expressions.structure.FalseLiteral" />
+  <concept fqn="com.mbeddr.core.expressions.structure.GreaterExpression" />
+  <concept fqn="com.mbeddr.core.expressions.structure.NotEqualsExpression" />
+  <concept fqn="com.mbeddr.core.expressions.structure.NumberLiteral" />
+  <concept fqn="com.mbeddr.core.expressions.structure.OrExpression" />
+  <concept fqn="com.mbeddr.core.modules.structure.Function" />
+  <concept fqn="com.mbeddr.core.modules.structure.FunctionCall" />
+  <concept fqn="com.mbeddr.core.modules.structure.FunctionPrototype" />
+  <concept fqn="com.mbeddr.core.modules.structure.ReturnStatement" />
+  <concept fqn="com.mbeddr.core.pointers.structure.NullExpression" />
+  <concept fqn="com.mbeddr.core.pointers.structure.StringLiteral" />
+  <concept fqn="com.mbeddr.core.statements.structure.ArbitraryTextExpression" />
+  <concept fqn="com.mbeddr.core.statements.structure.ExpressionStatement" />
+  <concept fqn="com.mbeddr.core.statements.structure.LocalVarRef" />
+  <concept fqn="com.mbeddr.core.statements.structure.LocalVariableDeclaration" />
+  <concept fqn="com.mbeddr.core.statements.structure.Statement" />
+  <concept fqn="com.mbeddr.core.statements.structure.StatementList" />
+  <root nodeRef="r:385a3d5b-41e1-4bc5-95ce-dd5cfea3a2c6(NewLanguage.sandbox.File)/2429614409469629092">
+    <file name="OpeningFile.c">
+      <node id="2429614409469961194" at="13,2,13,2" concept="16" />
+      <node id="2429614409469947601" at="14,2,14,35" concept="15" />
+      <node id="2429614409469954051" at="14,19,14,34" concept="11" />
+      <node id="2429614409469964509" at="15,2,15,24" concept="15" />
+      <node id="2429614409470344988" at="15,15,15,23" concept="10" />
+      <node id="8240244371749830214" at="16,2,16,11" concept="15" />
+      <node id="8240244371750191246" at="17,2,17,2" concept="16" />
+      <node id="8240244371750191625" at="18,9,18,11" concept="4" />
+      <node id="8240244371750191493" at="19,2,19,14" concept="7" />
+      <node id="8240244371750191495" at="19,2,19,15" concept="13" />
+      <node id="8240244371750191625" at="19,11,19,13" concept="4" />
+      <node id="8240244371749830953" at="20,2,20,2" concept="16" />
+      <node id="8240244371751571242" at="21,9,21,17" concept="14" />
+      <node id="8240244371751571526" at="22,16,22,19" concept="11" />
+      <node id="8240244371751571526" at="22,40,22,43" concept="11" />
+      <node id="8240244371751571526" at="22,64,22,67" concept="11" />
+      <node id="8240244371751571526" at="22,88,22,91" concept="11" />
+      <node id="8240244371751571526" at="22,113,22,116" concept="11" />
+      <node id="8240244371751571526" at="22,138,22,141" concept="11" />
+      <node id="2429614409469946797" at="23,2,23,21" concept="15" />
+      <node id="2429614409469946797" at="24,2,24,14" concept="14" />
+      <node id="2429614409469946797" at="24,2,24,37" concept="0" />
+      <node id="2429614409469946797" at="24,2,24,38" concept="13" />
+      <node id="8240244371751529304" at="24,17,24,37" concept="7" />
+      <node id="8240244371751571242" at="24,23,24,31" concept="14" />
+      <node id="8240244371751571526" at="24,33,24,36" concept="11" />
+      <node id="8240244371751529306" at="26,2,26,14" concept="14" />
+      <node id="8240244371751529306" at="26,2,26,15" concept="13" />
+      <node id="8240244371751529183" at="27,2,27,2" concept="16" />
+      <node id="6691430732449030825" at="28,2,28,2" concept="16" />
+      <node id="6691430732449030972" at="29,2,29,15" concept="12" />
+      <node id="6691430732449030972" at="29,2,29,16" concept="13" />
+      <node id="3357489847778018830" at="29,9,29,14" concept="1" />
+      <node id="2429614409469946805" at="30,2,30,11" concept="9" />
+      <node id="2429614409469946806" at="30,9,30,10" concept="4" />
+      <node id="3640257769781560972" at="35,2,35,2" concept="16" />
+      <node id="2429614409469629092" at="9,0,10,0" concept="8" trace="NewLanguage.sandbox.File.testFuncIt" />
+      <node id="3640257769781560971" at="34,0,36,1" concept="17" />
+      <node id="3640257769781560969" at="33,0,37,0" concept="6" trace="OpeningFile_testFuncIt" />
+      <node id="2429614409469946797" at="12,0,31,1" concept="17" />
+      <node id="2429614409469946795" at="11,0,32,0" concept="6" trace="main" />
+      <unit id="2429614409469629092" at="1,0,38,0" name="NewLanguage.sandbox.File.OpeningFile" />
+    </file>
+    <file name="OpeningFile.h">
+      <node id="2429614409469629092" at="21,0,22,0" concept="8" trace="NewLanguage.sandbox.File.main" />
+    </file>
+  </root>
+  <root nodeRef="r:385a3d5b-41e1-4bc5-95ce-dd5cfea3a2c6(NewLanguage.sandbox.File)/2429614409469645418">
+    <file name="OpeningFile.c">
+      <node id="8240244371750189431" at="18,2,18,16" concept="12" />
+      <node id="8240244371750189431" at="18,2,18,17" concept="13" />
+      <node id="8240244371750189853" at="18,9,18,15" concept="2" />
+      <node id="8240244371750189879" at="18,14,18,15" concept="4" />
+      <node id="8529659143404005557" at="21,2,21,30" concept="12" />
+      <node id="8529659143404005557" at="21,2,21,31" concept="13" />
+      <node id="8529659143404054455" at="21,9,21,29" concept="3" />
+      <node id="8529659143404054480" at="21,21,21,29" concept="10" />
+      <node id="2429614409469926905" at="22,2,22,153" concept="12" />
+      <node id="2429614409469926905" at="22,2,22,154" concept="13" />
+      <node id="2429614409469927835" at="22,9,22,29" concept="12" />
+      <node id="2429614409469927944" at="22,9,22,53" concept="5" />
+      <node id="2429614409469928244" at="22,9,22,77" concept="5" />
+      <node id="2429614409469929835" at="22,9,22,102" concept="5" />
+      <node id="2429614409469930793" at="22,9,22,127" concept="5" />
+      <node id="2429614409469932277" at="22,9,22,152" concept="5" />
+      <node id="2429614409469927860" at="22,20,22,23" concept="11" />
+      <node id="2429614409469928039" at="22,33,22,53" concept="12" />
+      <node id="2429614409469928132" at="22,44,22,47" concept="11" />
+      <node id="2429614409469928469" at="22,57,22,77" concept="12" />
+      <node id="2429614409469928622" at="22,68,22,71" concept="11" />
+      <node id="2429614409469930180" at="22,81,22,102" concept="12" />
+      <node id="2429614409469930393" at="22,92,22,96" concept="11" />
+      <node id="2429614409469931258" at="22,106,22,127" concept="12" />
+      <node id="2429614409469931531" at="22,117,22,121" concept="11" />
+      <node id="2429614409469932862" at="22,131,22,152" concept="12" />
+      <node id="2429614409469933195" at="22,142,22,146" concept="11" />
+      <node id="7519962224660559495" at="25,2,25,44" concept="12" />
+      <node id="7519962224660559495" at="25,2,25,45" concept="13" />
+      <node id="2429614409469969684" at="25,19,25,31" concept="14" />
+      <node id="2429614409469969684" at="25,19,25,43" concept="3" />
+      <node id="2429614409469969709" at="25,35,25,43" concept="10" />
+    </file>
+  </root>
+</debug-info>
+

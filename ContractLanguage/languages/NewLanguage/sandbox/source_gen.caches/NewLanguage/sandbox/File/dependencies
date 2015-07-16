@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="NewLanguage.sandbox.File.Makefile" file="Makefile" />
+  <dependency className="NewLanguage.sandbox.File.OpeningFile" file="OpeningFile.c" />
+  <dependency className="NewLanguage.sandbox.File.OpeningFile" file="OpeningFile.h" />
+  <dependency className="NewLanguage.sandbox.File.TypeSizeConfiguration (N.s.File)" file="TypeSizeConfiguration (N.s.File)" />
+</dependenciesRoot>
+

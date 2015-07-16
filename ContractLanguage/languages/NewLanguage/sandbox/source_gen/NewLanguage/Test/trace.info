@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="com.mbeddr.core.expressions.structure.NumberLiteral" />
+  <concept fqn="com.mbeddr.core.modules.structure.Function" />
+  <concept fqn="com.mbeddr.core.modules.structure.FunctionCall" />
+  <concept fqn="com.mbeddr.core.modules.structure.FunctionPrototype" />
+  <concept fqn="com.mbeddr.core.modules.structure.ReturnStatement" />
+  <concept fqn="com.mbeddr.core.pointers.structure.StringLiteral" />
+  <concept fqn="com.mbeddr.core.statements.structure.ExpressionStatement" />
+  <concept fqn="com.mbeddr.core.statements.structure.LocalVariableDeclaration" />
+  <concept fqn="com.mbeddr.core.statements.structure.Statement" />
+  <concept fqn="com.mbeddr.core.statements.structure.StatementList" />
+  <root nodeRef="r:fa46949a-b17b-4681-9b5e-c7b251b7cb67(NewLanguage.Test)/2616589542497752475">
+    <file name="Code.c">
+      <node id="7519962224660693551" at="11,2,11,2" concept="8" />
+      <node id="7519962224659651042" at="12,2,12,2" concept="8" />
+      <node id="7519962224659605147" at="13,2,13,18" concept="7" />
+      <node id="7519962224659608237" at="13,14,13,17" concept="0" />
+      <node id="7519962224659625070" at="14,2,14,16" concept="7" />
+      <node id="7519962224659628197" at="14,14,14,15" concept="0" />
+      <node id="7519962224660690144" at="15,2,15,2" concept="8" />
+      <node id="5016697297431528541" at="16,2,16,24" concept="2" />
+      <node id="5016697297431528543" at="16,2,16,25" concept="6" />
+      <node id="5016697297431529745" at="16,9,16,14" concept="5" />
+      <node id="5016697297431532718" at="16,16,16,23" concept="5" />
+      <node id="5016697297431527349" at="17,2,17,2" concept="8" />
+      <node id="7519962224660803486" at="18,2,18,2" concept="8" />
+      <node id="7519962224659681985" at="19,2,19,2" concept="8" />
+      <node id="7519962224659671455" at="20,2,20,2" concept="8" />
+      <node id="2616589542500191535" at="21,2,21,11" concept="4" />
+      <node id="2616589542500191536" at="21,9,21,10" concept="0" />
+      <node id="2616589542500191527" at="10,0,22,1" concept="9" />
+      <node id="2616589542500191525" at="9,0,23,0" concept="1" trace="main" />
+      <unit id="2616589542497752475" at="1,0,24,0" name="NewLanguage.Test.Code" />
+    </file>
+    <file name="Code.h">
+      <node id="2616589542497752475" at="23,0,24,0" concept="3" trace="NewLanguage.Test.main" />
+    </file>
+  </root>
+</debug-info>
+

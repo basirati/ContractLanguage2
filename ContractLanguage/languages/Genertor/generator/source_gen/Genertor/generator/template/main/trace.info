@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="QueriesGenerated.java" startLine="10" startPosition="0" endLine="18" endPosition="0" unitName="Genertor.generator.template.main.QueriesGenerated" />
+  <root nodeRef="r:c8a5cbbc-dfa1-4e9a-8cf6-26bc0751454a(Genertor.generator.template.main@generator)/5001228142443906963">
+    <nodeInfo nodeId="5001228142444311759" fileName="QueriesGenerated.java" startLine="14" startPosition="108" endLine="15" endPosition="103" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5001228142444293939" fileName="QueriesGenerated.java" startLine="14" startPosition="108" endLine="15" endPosition="103" />
+  </root>
+</debugInfo>
+

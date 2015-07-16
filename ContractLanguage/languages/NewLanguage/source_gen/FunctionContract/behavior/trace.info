@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root>
+    <file name="ArgReference_BehaviorDescriptor.java">
+      <unit at="7,0,15,0" name="FunctionContract.behavior.ArgReference_BehaviorDescriptor" />
+    </file>
+    <file name="BehaviorAspectDescriptor.java">
+      <unit at="9,0,50,0" name="FunctionContract.behavior.BehaviorAspectDescriptor" />
+    </file>
+    <file name="CheckFunctionPostcondition_BehaviorDescriptor.java">
+      <unit at="7,0,15,0" name="FunctionContract.behavior.CheckFunctionPostcondition_BehaviorDescriptor" />
+    </file>
+    <file name="CheckFunctionPreconditions_BehaviorDescriptor.java">
+      <unit at="7,0,15,0" name="FunctionContract.behavior.CheckFunctionPreconditions_BehaviorDescriptor" />
+    </file>
+    <file name="Dependency_BehaviorDescriptor.java">
+      <unit at="7,0,15,0" name="FunctionContract.behavior.Dependency_BehaviorDescriptor" />
+    </file>
+    <file name="FunctionContract_BehaviorDescriptor.java">
+      <unit at="22,0,100,0" name="FunctionContract.behavior.FunctionContract_BehaviorDescriptor" />
+    </file>
+    <file name="ParameterRange_BehaviorDescriptor.java">
+      <unit at="7,0,15,0" name="FunctionContract.behavior.ParameterRange_BehaviorDescriptor" />
+    </file>
+    <file name="ParameterSideEffect_BehaviorDescriptor.java">
+      <unit at="7,0,15,0" name="FunctionContract.behavior.ParameterSideEffect_BehaviorDescriptor" />
+    </file>
+    <file name="Postconditions_BehaviorDescriptor.java">
+      <unit at="7,0,15,0" name="FunctionContract.behavior.Postconditions_BehaviorDescriptor" />
+    </file>
+    <file name="Preconditions_BehaviorDescriptor.java">
+      <unit at="7,0,15,0" name="FunctionContract.behavior.Preconditions_BehaviorDescriptor" />
+    </file>
+    <file name="RangeExpression_BehaviorDescriptor.java">
+      <unit at="7,0,15,0" name="FunctionContract.behavior.RangeExpression_BehaviorDescriptor" />
+    </file>
+    <file name="ReturnValRef_BehaviorDescriptor.java">
+      <unit at="7,0,15,0" name="FunctionContract.behavior.ReturnValRef_BehaviorDescriptor" />
+    </file>
+    <file name="ReturnValueRange_BehaviorDescriptor.java">
+      <unit at="7,0,15,0" name="FunctionContract.behavior.ReturnValueRange_BehaviorDescriptor" />
+    </file>
+    <file name="ReturnValue_BehaviorDescriptor.java">
+      <unit at="10,0,21,0" name="FunctionContract.behavior.ReturnValue_BehaviorDescriptor" />
+    </file>
+    <file name="SideEffects_BehaviorDescriptor.java">
+      <unit at="7,0,15,0" name="FunctionContract.behavior.SideEffects_BehaviorDescriptor" />
+    </file>
+    <file name="VerifyFunctionAttribute_BehaviorDescriptor.java">
+      <unit at="7,0,15,0" name="FunctionContract.behavior.VerifyFunctionAttribute_BehaviorDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:56ebf61c-1a15-47af-a4a5-86cc78fb64e5(FunctionContract.behavior)/3452445183878535557">
+    <file name="ReturnValue_Behavior.java">
+      <node id="3452445183878535612" at="10,43,11,162" concept="0" />
+      <node id="3452445183878535557" at="10,0,13,0" concept="6" trace="init#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <scope id="3452445183878535559" at="10,43,11,162" />
+      <scope id="3452445183878535557" at="10,0,13,0">
+        <var name="thisNode" id="3452445183878535557" />
+      </scope>
+      <unit id="3452445183878535557" at="9,0,14,0" name="FunctionContract.behavior.ReturnValue_Behavior" />
+    </file>
+  </root>
+  <root nodeRef="r:56ebf61c-1a15-47af-a4a5-86cc78fb64e5(FunctionContract.behavior)/5490661654534461148">
+    <file name="ReturnValueRange_Behavior.java">
+      <node id="5490661654534461148" at="8,0,10,0" concept="6" trace="init#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <scope id="5490661654534461150" at="8,43,8,43" />
+      <scope id="5490661654534461148" at="8,0,10,0">
+        <var name="thisNode" id="5490661654534461148" />
+      </scope>
+      <unit id="5490661654534461148" at="7,0,11,0" name="FunctionContract.behavior.ReturnValueRange_Behavior" />
+    </file>
+  </root>
+  <root nodeRef="r:56ebf61c-1a15-47af-a4a5-86cc78fb64e5(FunctionContract.behavior)/5490661654534918418">
+    <file name="Postconditions_Behavior.java">
+      <node id="7519962224659425173" at="13,43,14,383" concept="0" />
+      <node id="7519962224659427060" at="14,383,15,333" concept="0" />
+      <node id="5490661654534918418" at="13,0,17,0" concept="6" trace="init#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <scope id="5490661654534918420" at="13,43,15,333" />
+      <scope id="5490661654534918418" at="13,0,17,0">
+        <var name="thisNode" id="5490661654534918418" />
+      </scope>
+      <unit id="5490661654534918418" at="12,0,18,0" name="FunctionContract.behavior.Postconditions_Behavior" />
+    </file>
+  </root>
+  <root nodeRef="r:56ebf61c-1a15-47af-a4a5-86cc78fb64e5(FunctionContract.behavior)/598028305532169113">
+    <file name="CheckFunctionPreconditions_Behavior.java">
+      <node id="598028305532169168" at="10,43,11,178" concept="0" />
+      <node id="598028305536724450" at="13,73,14,177" concept="0" />
+      <node id="598028305536729168" at="16,75,17,178" concept="0" />
+      <node id="598028305532169113" at="10,0,13,0" concept="6" trace="init#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="598028305532169113" at="13,0,16,0" concept="6" trace="call_setAssumed_598028305536724302#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="598028305532169113" at="16,0,19,0" concept="6" trace="call_setUnAssumed_598028305536729000#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <scope id="598028305532169115" at="10,43,11,178" />
+      <scope id="598028305536724305" at="13,73,14,177" />
+      <scope id="598028305536729003" at="16,75,17,178" />
+      <scope id="598028305532169113" at="10,0,13,0">
+        <var name="thisNode" id="598028305532169113" />
+      </scope>
+      <scope id="598028305532169113" at="13,0,16,0">
+        <var name="thisNode" id="598028305532169113" />
+      </scope>
+      <scope id="598028305532169113" at="16,0,19,0">
+        <var name="thisNode" id="598028305532169113" />
+      </scope>
+      <unit id="598028305532169113" at="9,0,20,0" name="FunctionContract.behavior.CheckFunctionPreconditions_Behavior" />
+    </file>
+  </root>
+  <root nodeRef="r:56ebf61c-1a15-47af-a4a5-86cc78fb64e5(FunctionContract.behavior)/598028305537015451">
+    <file name="Preconditions_Behavior.java">
+      <node id="598028305537015506" at="10,43,11,178" concept="0" />
+      <node id="598028305537015451" at="10,0,13,0" concept="6" trace="init#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <scope id="598028305537015453" at="10,43,11,178" />
+      <scope id="598028305537015451" at="10,0,13,0">
+        <var name="thisNode" id="598028305537015451" />
+      </scope>
+      <unit id="598028305537015451" at="9,0,14,0" name="FunctionContract.behavior.Preconditions_Behavior" />
+    </file>
+  </root>
+  <root nodeRef="r:56ebf61c-1a15-47af-a4a5-86cc78fb64e5(FunctionContract.behavior)/6705784806340869940">
+    <file name="FunctionContract_Behavior.java">
+      <node id="2742180936282482458" at="14,43,15,74" concept="0" />
+      <node id="2742180936282637035" at="18,191,19,13" concept="4" />
+      <node id="2742180936282684634" at="21,542,22,226" concept="3" />
+      <node id="2944201642671691888" at="22,226,23,226" concept="3" />
+      <node id="2944201642671694138" at="23,226,24,173" concept="0" />
+      <node id="2742180936283434247" at="24,173,25,386" concept="0" />
+      <node id="2742180936282657781" at="25,386,26,392" concept="0" />
+      <node id="2742180936282491444" at="30,189,31,13" concept="4" />
+      <node id="3598327450488767080" at="33,542,34,243" concept="3" />
+      <node id="3598327450488767243" at="34,243,35,327" concept="0" />
+      <node id="3598327450488781274" at="35,327,36,299" concept="0" />
+      <node id="3598327450488759506" at="36,299,37,255" concept="0" />
+      <node id="3598327450488907509" at="38,5,39,0" concept="5" />
+      <node id="6705784806340869940" at="14,0,17,0" concept="6" trace="init#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="2742180936282602853" at="17,71,20,5" concept="2" />
+      <node id="2742180936282486538" at="29,72,32,5" concept="2" />
+      <node id="3598327450488743707" at="32,5,38,5" concept="1" />
+      <node id="2742180936282637507" at="20,5,27,5" concept="1" />
+      <node id="6705784806340869940" at="17,0,29,0" concept="6" trace="call_addArgs_2742180936282602292#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="6705784806340869940" at="29,0,41,0" concept="6" trace="call_makeVars_3598327450488743691#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <scope id="6705784806340869942" at="14,43,15,74" />
+      <scope id="2742180936282602854" at="18,191,19,13" />
+      <scope id="2742180936282486541" at="30,189,31,13" />
+      <scope id="6705784806340869940" at="14,0,17,0">
+        <var name="thisNode" id="6705784806340869940" />
+      </scope>
+      <scope id="3598327450488743710" at="33,542,37,255">
+        <var name="gvd" id="3598327450488767083" />
+      </scope>
+      <scope id="2742180936282637513" at="21,542,26,392">
+        <var name="argref" id="2944201642671691891" />
+        <var name="prec" id="2742180936282684637" />
+      </scope>
+      <scope id="3598327450488743707" at="32,5,38,5">
+        <var name="arg" id="3598327450488743708" />
+      </scope>
+      <scope id="2742180936282637507" at="20,5,27,5">
+        <var name="arg" id="2742180936282637509" />
+      </scope>
+      <scope id="2742180936282602295" at="17,71,27,5" />
+      <scope id="3598327450488743694" at="29,72,39,0" />
+      <scope id="6705784806340869940" at="17,0,29,0">
+        <var name="thisNode" id="6705784806340869940" />
+      </scope>
+      <scope id="6705784806340869940" at="29,0,41,0">
+        <var name="thisNode" id="6705784806340869940" />
+      </scope>
+      <unit id="6705784806340869940" at="13,0,42,0" name="FunctionContract.behavior.FunctionContract_Behavior" />
+    </file>
+  </root>
+</debug-info>
+

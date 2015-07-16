@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="NewLanguage.Test.Code" file="Code.c" />
+  <dependency className="NewLanguage.Test.Code" file="Code.h" />
+  <dependency className="NewLanguage.Test.Makefile" file="Makefile" />
+  <dependency className="NewLanguage.Test.TypeSizeConfiguration (N.Test)" file="TypeSizeConfiguration (N.Test)" />
+</dependenciesRoot>
+

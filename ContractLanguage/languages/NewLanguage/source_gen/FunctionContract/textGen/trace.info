@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.TryCatchStatement" />
+  <root nodeRef="r:2133e004-4748-4967-940e-6a105b47437a(FunctionContract.textGen)/2374499500996150316">
+    <file name="RangeExpression_TextGen.java">
+      <node id="2374499500996150343" at="11,42,12,185" concept="0" />
+      <node id="2374499500996150343" at="11,42,12,185" concept="0" />
+      <node id="2374499500996150343" at="11,42,12,185" concept="1" />
+      <node id="2374499500996150316" at="11,0,14,0" concept="3" trace="doGenerateText#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <scope id="2374499500996150316" at="11,42,12,185" />
+      <scope id="2374499500996150343" at="11,42,12,185" />
+      <scope id="2374499500996150316" at="11,0,14,0">
+        <var name="node" id="2374499500996150316" />
+      </scope>
+      <unit id="2374499500996150316" at="10,0,15,0" name="FunctionContract.textGen.RangeExpression_TextGen" />
+    </file>
+  </root>
+  <root nodeRef="r:2133e004-4748-4967-940e-6a105b47437a(FunctionContract.textGen)/598028305536616235">
+    <file name="ArgReference_TextGen.java">
+      <node id="598028305536616235" at="19,44,20,61" concept="1" />
+      <node id="598028305536619252" at="21,5,22,322" concept="0" />
+      <node id="598028305536619252" at="21,5,22,322" concept="1" />
+      <node id="598028305536616235" at="24,7,25,38" concept="4" />
+      <node id="598028305536616235" at="26,13,27,335" concept="1" />
+      <node id="598028305536616235" at="29,46,30,88" concept="1" />
+      <node id="598028305536616235" at="32,9,33,80" concept="1" />
+      <node id="598028305536616235" at="37,0,38,0" concept="5" trace="LOG" />
+      <node id="598028305536616235" at="18,42,21,5" concept="2" />
+      <node id="598028305536616235" at="28,31,31,11" concept="0" />
+      <node id="598028305536616235" at="28,31,31,11" concept="2" />
+      <node id="598028305536616235" at="25,38,32,9" concept="6" />
+      <node id="598028305536616235" at="23,44,34,7" concept="0" />
+      <node id="598028305536616235" at="22,322,35,5" concept="2" />
+      <node id="598028305536616235" at="18,0,37,0" concept="3" trace="doGenerateText#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <scope id="598028305536616235" at="19,44,20,61" />
+      <scope id="598028305536619252" at="21,5,22,322" />
+      <scope id="598028305536616235" at="26,13,27,335" />
+      <scope id="598028305536616235" at="29,46,30,88" />
+      <scope id="598028305536616235" at="28,0,31,11">
+        <var name="t" id="598028305536616235" />
+      </scope>
+      <scope id="598028305536616235" at="28,31,31,11" />
+      <scope id="598028305536616235" at="24,7,33,80">
+        <var name="traceableProperty" id="598028305536616235" />
+      </scope>
+      <scope id="598028305536616235" at="23,44,34,7" />
+      <scope id="598028305536616235" at="18,42,35,5" />
+      <scope id="598028305536616235" at="18,0,37,0">
+        <var name="node" id="598028305536616235" />
+      </scope>
+      <unit id="598028305536616235" at="17,0,39,0" name="FunctionContract.textGen.ArgReference_TextGen" />
+    </file>
+  </root>
+</debug-info>
+

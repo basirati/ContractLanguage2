@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="com.mbeddr.core.expressions.structure.AssignmentExpr" />
+  <concept fqn="com.mbeddr.core.expressions.structure.EqualsExpression" />
+  <concept fqn="com.mbeddr.core.expressions.structure.GenericDotExpression" />
+  <concept fqn="com.mbeddr.core.expressions.structure.GreaterExpression" />
+  <concept fqn="com.mbeddr.core.expressions.structure.LessExpression" />
+  <concept fqn="com.mbeddr.core.expressions.structure.NumberLiteral" />
+  <concept fqn="com.mbeddr.core.expressions.structure.ParensExpression" />
+  <concept fqn="com.mbeddr.core.modules.structure.ArgumentRef" />
+  <concept fqn="com.mbeddr.core.modules.structure.Function" />
+  <concept fqn="com.mbeddr.core.modules.structure.FunctionCall" />
+  <concept fqn="com.mbeddr.core.modules.structure.FunctionPrototype" />
+  <concept fqn="com.mbeddr.core.modules.structure.GlobalConstantRef" />
+  <concept fqn="com.mbeddr.core.modules.structure.ReturnStatement" />
+  <concept fqn="com.mbeddr.core.pointers.structure.NullExpression" />
+  <concept fqn="com.mbeddr.core.pointers.structure.ReferenceExpr" />
+  <concept fqn="com.mbeddr.core.pointers.structure.SizeOfExprForExpressions" />
+  <concept fqn="com.mbeddr.core.pointers.structure.StringLiteral" />
+  <concept fqn="com.mbeddr.core.statements.structure.DoWhileStatement" />
+  <concept fqn="com.mbeddr.core.statements.structure.ExpressionStatement" />
+  <concept fqn="com.mbeddr.core.statements.structure.IfStatement" />
+  <concept fqn="com.mbeddr.core.statements.structure.LocalVarRef" />
+  <concept fqn="com.mbeddr.core.statements.structure.LocalVariableDeclaration" />
+  <concept fqn="com.mbeddr.core.statements.structure.Statement" />
+  <concept fqn="com.mbeddr.core.statements.structure.StatementList" />
+  <root nodeRef="r:1017ba38-d176-497b-814a-bb8a63e1cfac(NewLanguage.Server)/2160067447784261097">
+    <file name="Server.c">
+      <node id="4052493889682017130" at="17,2,17,15" concept="21" />
+      <node id="4052493889682033695" at="18,2,18,38" concept="21" />
+      <node id="4052493889682039447" at="18,29,18,37" concept="13" />
+      <node id="4052493889682041709" at="19,2,19,36" concept="21" />
+      <node id="4052493889682059823" at="20,2,20,2" concept="22" />
+      <node id="4052493889682058275" at="21,2,21,6" concept="20" />
+      <node id="4052493889682058337" at="21,2,21,50" concept="0" />
+      <node id="4052493889682058277" at="21,2,21,51" concept="18" />
+      <node id="4052493889682060843" at="21,9,21,50" concept="9" />
+      <node id="4052493889682061850" at="21,16,21,23" concept="11" />
+      <node id="4052493889682063169" at="21,25,21,36" concept="11" />
+      <node id="4052493889682066430" at="21,38,21,49" concept="11" />
+      <node id="4052493889682073380" at="22,7,22,11" concept="20" />
+      <node id="4052493889682075701" at="22,7,22,15" concept="4" />
+      <node id="4052493889682077070" at="22,14,22,15" concept="5" />
+      <node id="4052493889682080084" at="24,4,24,20" concept="9" />
+      <node id="4052493889682080085" at="24,4,24,21" concept="18" />
+      <node id="4052493889682080097" at="24,11,24,19" concept="16" />
+      <node id="4052493889682080596" at="25,4,25,11" concept="9" />
+      <node id="4052493889682080598" at="25,4,25,12" concept="18" />
+      <node id="4052493889682080705" at="25,9,25,10" concept="5" />
+      <node id="4052493889682081213" at="27,2,27,2" concept="22" />
+      <node id="4052493889682086590" at="28,2,28,51" concept="9" />
+      <node id="4052493889682086592" at="28,2,28,52" concept="18" />
+      <node id="4052493889682089766" at="28,9,28,24" concept="14" />
+      <node id="4052493889682093389" at="28,10,28,24" concept="20" />
+      <node id="4052493889682096746" at="28,26,28,27" concept="5" />
+      <node id="4052493889682104581" at="28,29,28,50" concept="15" />
+      <node id="4052493889682108764" at="28,36,28,50" concept="20" />
+      <node id="4052493889682112810" at="29,2,29,16" concept="20" />
+      <node id="4052493889682137968" at="29,2,29,27" concept="2" />
+      <node id="4052493889682145979" at="29,2,29,37" concept="0" />
+      <node id="4052493889682112812" at="29,2,29,38" concept="18" />
+      <node id="4052493889682164275" at="29,30,29,37" concept="11" />
+      <node id="4052493889682187916" at="30,2,30,16" concept="20" />
+      <node id="4052493889682190690" at="30,2,30,25" concept="2" />
+      <node id="4052493889682199476" at="30,2,30,39" concept="0" />
+      <node id="4052493889682187918" at="30,2,30,40" concept="18" />
+      <node id="4052493889682203993" at="30,28,30,39" concept="9" />
+      <node id="4052493889682208492" at="30,34,30,38" concept="7" />
+      <node id="4052493889682213026" at="31,2,31,2" concept="22" />
+      <node id="4052493889682225400" at="32,7,32,11" concept="7" />
+      <node id="4052493889682229333" at="32,7,32,16" concept="1" />
+      <node id="2160067447783543995" at="32,15,32,16" concept="5" />
+      <node id="4052493889682234227" at="34,4,34,18" concept="20" />
+      <node id="4052493889682234430" at="34,4,34,27" concept="2" />
+      <node id="4052493889682288265" at="34,4,34,34" concept="2" />
+      <node id="4052493889682297962" at="34,4,34,54" concept="0" />
+      <node id="4052493889682234228" at="34,4,34,55" concept="18" />
+      <node id="4052493889682302973" at="34,37,34,54" concept="9" />
+      <node id="4052493889682322337" at="34,43,34,53" concept="11" />
+      <node id="4052493889682327890" at="35,9,35,59" concept="9" />
+      <node id="4052493889682381199" at="35,9,35,63" concept="4" />
+      <node id="4052493889682327899" at="35,14,35,18" concept="20" />
+      <node id="4052493889682341655" at="35,20,35,35" concept="14" />
+      <node id="4052493889682341699" at="35,21,35,35" concept="20" />
+      <node id="4052493889682342390" at="35,37,35,58" concept="15" />
+      <node id="4052493889682348349" at="35,44,35,58" concept="20" />
+      <node id="4052493889682381202" at="35,62,35,63" concept="5" />
+      <node id="4052493889682419500" at="37,6,37,20" concept="9" />
+      <node id="4052493889682419501" at="37,6,37,21" concept="18" />
+      <node id="4052493889682419513" at="37,13,37,19" concept="16" />
+      <node id="4052493889682420252" at="38,6,38,13" concept="9" />
+      <node id="4052493889682420254" at="38,6,38,14" concept="18" />
+      <node id="4052493889682420361" at="38,11,38,12" concept="5" />
+      <node id="4052493889682438851" at="41,6,41,39" concept="9" />
+      <node id="4052493889682438852" at="41,6,41,40" concept="18" />
+      <node id="4052493889682438864" at="41,13,41,38" concept="16" />
+      <node id="4052493889682440826" at="43,4,43,4" concept="22" />
+      <node id="4052493889682460672" at="44,9,44,24" concept="9" />
+      <node id="4052493889682468432" at="44,9,44,28" concept="4" />
+      <node id="4052493889682460681" at="44,16,44,20" concept="20" />
+      <node id="2160067447783510324" at="44,22,44,23" concept="5" />
+      <node id="4052493889682474407" at="44,27,44,28" concept="5" />
+      <node id="4052493889682481999" at="46,6,46,29" concept="9" />
+      <node id="4052493889682482000" at="46,6,46,30" concept="18" />
+      <node id="4052493889682482012" at="46,13,46,28" concept="16" />
+      <node id="4052493889682491367" at="48,13,48,17" concept="7" />
+      <node id="4052493889682491579" at="48,13,48,22" concept="1" />
+      <node id="2160067447783545213" at="48,21,48,22" concept="5" />
+      <node id="4052493889682493896" at="49,4,49,18" concept="20" />
+      <node id="4052493889682494099" at="49,4,49,27" concept="2" />
+      <node id="4052493889682509489" at="49,4,49,34" concept="2" />
+      <node id="4052493889682524985" at="49,4,49,57" concept="0" />
+      <node id="4052493889682493897" at="49,4,49,58" concept="18" />
+      <node id="4052493889682533538" at="49,37,49,57" concept="9" />
+      <node id="4052493889682541512" at="49,47,49,56" concept="7" />
+      <node id="4052493889682569425" at="50,9,50,62" concept="9" />
+      <node id="4052493889682578834" at="50,9,50,66" concept="4" />
+      <node id="4052493889682569434" at="50,17,50,21" concept="20" />
+      <node id="4052493889682569835" at="50,23,50,38" concept="14" />
+      <node id="4052493889682569852" at="50,24,50,38" concept="20" />
+      <node id="4052493889682570920" at="50,40,50,61" concept="15" />
+      <node id="4052493889682578191" at="50,47,50,61" concept="20" />
+      <node id="4052493889682578851" at="50,65,50,66" concept="5" />
+      <node id="4052493889682587492" at="52,6,52,32" concept="9" />
+      <node id="4052493889682587493" at="52,6,52,33" concept="18" />
+      <node id="4052493889682587505" at="52,13,52,31" concept="16" />
+      <node id="4052493889682598619" at="55,6,55,41" concept="9" />
+      <node id="4052493889682598620" at="55,6,55,42" concept="18" />
+      <node id="4052493889682598632" at="55,13,55,40" concept="16" />
+      <node id="4052493889682649987" at="58,2,58,2" concept="22" />
+      <node id="4052493889682014350" at="59,2,59,14" concept="12" />
+      <node id="4052493889682020762" at="59,9,59,13" concept="20" />
+      <node id="4052493889682700764" at="64,2,64,24" concept="21" />
+      <node id="4052493889682707899" at="65,2,65,36" concept="21" />
+      <node id="4052493889682710877" at="66,2,66,25" concept="21" />
+      <node id="4052493889682713418" at="67,2,67,2" concept="22" />
+      <node id="4052493889682715943" at="68,2,68,15" concept="20" />
+      <node id="4052493889682716006" at="68,2,68,39" concept="0" />
+      <node id="4052493889682715945" at="68,2,68,40" concept="18" />
+      <node id="4052493889682717219" at="68,18,68,39" concept="15" />
+      <node id="4052493889682718663" at="68,25,68,39" concept="20" />
+      <node id="4052493889682721721" at="69,2,69,2" concept="22" />
+      <node id="4052493889682724908" at="70,7,70,79" concept="6" />
+      <node id="4052493889682759239" at="70,7,70,83" concept="4" />
+      <node id="4052493889682726344" at="70,8,70,21" concept="20" />
+      <node id="4052493889682726751" at="70,8,70,78" concept="0" />
+      <node id="4052493889682728210" at="70,24,70,78" concept="9" />
+      <node id="4052493889682735291" at="70,31,70,44" concept="7" />
+      <node id="4052493889682739360" at="70,46,70,61" concept="14" />
+      <node id="4052493889682741393" at="70,47,70,61" concept="20" />
+      <node id="4052493889682744149" at="70,63,70,77" concept="14" />
+      <node id="4052493889682746372" at="70,64,70,77" concept="20" />
+      <node id="4052493889682759242" at="70,82,70,83" concept="5" />
+      <node id="4052493889682762907" at="72,4,72,27" concept="9" />
+      <node id="4052493889682762908" at="72,4,72,28" concept="18" />
+      <node id="4052493889682762920" at="72,11,72,26" concept="16" />
+      <node id="4052493889682767637" at="74,2,74,2" concept="22" />
+      <node id="4052493889682773848" at="75,2,75,68" concept="9" />
+      <node id="4052493889682773850" at="75,2,75,69" concept="18" />
+      <node id="4052493889682776966" at="75,9,75,31" concept="16" />
+      <node id="4052493889682812148" at="75,33,75,67" concept="9" />
+      <node id="2160067447784321072" at="75,43,75,57" concept="20" />
+      <node id="4052493889682816859" at="75,43,75,66" concept="2" />
+      <node id="4052493889682713467" at="76,2,76,2" concept="22" />
+      <node id="4052493889682705705" at="77,2,77,23" concept="12" />
+      <node id="4052493889682706305" at="77,9,77,22" concept="20" />
+      <node id="4052493889682703964" at="78,2,78,2" concept="22" />
+      <node id="4052493889682935188" at="83,2,83,18" concept="21" />
+      <node id="2160067447783576727" at="83,14,83,16" concept="5" />
+      <node id="4052493889682937072" at="84,2,84,19" concept="21" />
+      <node id="4052493889682939962" at="85,2,85,16" concept="21" />
+      <node id="4052493889682942626" at="86,2,86,20" concept="21" />
+      <node id="4052493889682943906" at="87,2,87,2" concept="22" />
+      <node id="4052493889682947177" at="89,4,89,12" concept="20" />
+      <node id="4052493889682947910" at="89,4,89,46" concept="0" />
+      <node id="4052493889682947179" at="89,4,89,47" concept="18" />
+      <node id="4052493889682948325" at="89,15,89,46" concept="9" />
+      <node id="4052493889682948736" at="89,20,89,33" concept="7" />
+      <node id="4052493889682949751" at="89,35,89,41" concept="20" />
+      <node id="2160067447783590367" at="89,43,89,45" concept="5" />
+      <node id="4052493889682955134" at="90,11,90,19" concept="20" />
+      <node id="4052493889682956191" at="90,11,90,23" concept="3" />
+      <node id="4052493889682958664" at="90,22,90,23" concept="5" />
+      <node id="4052493889682965245" at="91,2,91,42" concept="9" />
+      <node id="4052493889682965247" at="91,2,91,43" concept="18" />
+      <node id="4052493889682968876" at="91,9,91,33" concept="16" />
+      <node id="4052493889682969379" at="91,35,91,41" concept="20" />
+      <node id="4052493889682988156" at="92,2,92,7" concept="20" />
+      <node id="4052493889683006017" at="92,2,92,11" concept="0" />
+      <node id="4052493889682988158" at="92,2,92,12" concept="18" />
+      <node id="4052493889683006020" at="92,10,92,11" concept="5" />
+      <node id="2160067447784460701" at="97,2,97,18" concept="21" />
+      <node id="2160067447784467415" at="98,2,98,59" concept="21" />
+      <node id="2160067447784473187" at="98,17,98,58" concept="9" />
+      <node id="2160067447784490808" at="98,36,98,41" concept="5" />
+      <node id="2160067447784495992" at="98,43,98,44" concept="5" />
+      <node id="2160067447784498045" at="98,46,98,57" concept="16" />
+      <node id="2160067447784597165" at="99,2,99,9" concept="20" />
+      <node id="2160067447784598679" at="99,2,99,42" concept="0" />
+      <node id="2160067447784597167" at="99,2,99,43" concept="18" />
+      <node id="2160067447784600204" at="99,12,99,42" concept="9" />
+      <node id="2160067447784602485" at="99,37,99,41" concept="20" />
+      <node id="2160067447784605548" at="100,2,100,31" concept="9" />
+      <node id="2160067447784605550" at="100,2,100,32" concept="18" />
+      <node id="2160067447784607653" at="100,23,100,30" concept="20" />
+      <node id="2160067447784610537" at="101,2,101,13" concept="9" />
+      <node id="2160067447784610539" at="101,2,101,14" concept="18" />
+      <node id="2160067447784611901" at="101,8,101,12" concept="20" />
+      <node id="2160067447784445348" at="102,2,102,11" concept="12" />
+      <node id="2160067447784445349" at="102,9,102,10" concept="5" />
+      <node id="2160067447784261097" at="9,0,10,0" concept="10" trace="NewLanguage.Server.make_socket" />
+      <node id="2160067447784261097" at="11,0,12,0" concept="10" trace="NewLanguage.Server.accept_connection" />
+      <node id="2160067447784261097" at="13,0,14,0" concept="10" trace="NewLanguage.Server.handle_client" />
+      <node id="4052493889682432358" at="40,4,42,5" concept="23" />
+      <node id="4052493889682454050" at="45,4,47,5" concept="23" />
+      <node id="4052493889682569390" at="51,4,53,5" concept="23" />
+      <node id="4052493889682589559" at="54,4,56,5" concept="23" />
+      <node id="4052493889682723459" at="71,2,73,3" concept="23" />
+      <node id="4052493889682945199" at="88,2,90,25" concept="17" />
+      <node id="4052493889682945200" at="88,4,90,3" concept="23" />
+      <node id="4052493889682071052" at="23,2,26,3" concept="23" />
+      <node id="4052493889682327725" at="36,4,39,5" concept="23" />
+      <node id="4052493889682454049" at="44,4,47,5" concept="19" />
+      <node id="4052493889682723458" at="70,2,73,3" concept="19" />
+      <node id="4052493889682071051" at="22,2,26,3" concept="19" />
+      <node id="4052493889682569389" at="50,4,56,5" concept="19" />
+      <node id="4052493889682327724" at="35,4,42,5" concept="19" />
+      <node id="2160067447784445340" at="96,0,103,1" concept="23" />
+      <node id="4052493889682484299" at="48,24,57,3" concept="23" />
+      <node id="2160067447784445338" at="95,0,104,0" concept="8" trace="main" />
+      <node id="4052493889682918821" at="82,0,93,1" concept="23" />
+      <node id="4052493889682918819" at="81,0,94,0" concept="8" trace="Server_handle_client" />
+      <node id="4052493889682221427" at="33,2,48,3" concept="23" />
+      <node id="4052493889682689190" at="63,0,79,1" concept="23" />
+      <node id="4052493889682689188" at="62,0,80,0" concept="8" trace="Server_accept_connection" />
+      <node id="4052493889682221426" at="32,2,57,3" concept="19" />
+      <node id="4052493889682010270" at="16,0,60,1" concept="23" />
+      <node id="4052493889682010268" at="15,0,61,0" concept="8" trace="Server_make_socket" />
+      <unit id="2160067447784261097" at="1,0,105,0" name="NewLanguage.Server.Server" />
+    </file>
+    <file name="Server.h">
+      <node id="2160067447784261097" at="22,0,23,0" concept="10" trace="NewLanguage.Server.main" />
+    </file>
+  </root>
+</debug-info>
+

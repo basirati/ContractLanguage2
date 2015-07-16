@@ -1,0 +1,2422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarksTool">
+    <option name="myTreeState">
+      <TreeState />
+    </option>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="384e3d7d-de2d-4046-b9cf-1593ae2da40e" name="Default" comment="" />
+    <ignored path="ContractLanguage.iws" />
+    <ignored path=".mps/workspace.xml" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.genutil/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.rcp/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.genutil/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/solutions/com.mbeddr.core.interpreterdebugger.rt/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.requirements/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.rcp/runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.blutil/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.cinterpreter/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.lang.plugin.extensions/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.lang.plugin.extensions/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/solutions/com.mbeddr.analyses.cbmc.components.pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/diagram/languages/de.itemis.mps.editor.collapsible/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.debugger/solutions/com.mbeddr.core.debug.blext.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/diagram/languages/de.itemis.mps.editor.collapsible/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.modellisteners.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.contextsidebar/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.debugger/languages/com.mbeddr.core.debug/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.interpreter/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.contextsidebar/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.base/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.intentions.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.actionsfilter/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.var.c/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.blutil/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.plantuml/solutions/pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.actionsfilter/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-math/solutions/de.itemis.mps.editor.math.symbols/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.multilingual.baselanguage.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/solutions/com.mbeddr.analyses.cbmc.statemachines.pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/diagram/solutions/de.itemis.mps.mouselistener.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.var.c/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.requirements.csv/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.suppresswarning.gen/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.requirements.scenario2doc/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.debugger.tests/languages/com.mbeddr.core.debug.util/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.serializer.xml/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-hacks/languages/de.itemis.mps.nativelibs/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.components.gen_nomw/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.doc/languages/com.mbeddr.doc.expressions/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/solutions/com.mbeddr.core.stdlib/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/languages/com.mbeddr.analyses.cbmc.components/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.multilingual.settings.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.requirements.scenario2doc/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-hacks/languages/de.itemis.mps.nativelibs/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.components.gen_nomw/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/languages/com.mbeddr.analyses.cbmc.components/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-boolean-editor/solutions/de.itemis.mps.editor.bool.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/solutions/de.itemis.mps.selection.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.javainterpreter/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.arrays/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.datepicker/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/languages/com.mbeddr.analyses.cbmc.statemachines/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.var.annotations/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.arrays/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/solutions/com.mbeddr.analyses.cbmc.core.pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.rcp/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/languages/com.mbeddr.analyses.cbmc.statemachines/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.var.annotations/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.editor.querylist/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/languages/de.itemis.mps.tooltips/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.httpsupport.rt/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.datepicker/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.editor.querylist/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/languages/de.itemis.mps.tooltips/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.base/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.suppresswarning.gen/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/diagram/solutions/de.itemis.mps.editor.layout.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.base/solutions/pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.make/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/solutions/com.mbeddr.analyses.sat4j/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/solutions/com.mbeddr.core.debugger.default/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-math/languages/de.itemis.mps.editor.math/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.margincell.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.make/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.uniquenames/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.blutil/solutions/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.doc/languages/com.mbeddr.doc.meta/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.doc/languages/com.mbeddr.doc.expressions/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-math/languages/de.itemis.mps.editor.math/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.doc/languages/com.mbeddr.doc.meta/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.runconfiguration/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.qa/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.uniquenames/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.requirements.scenarios/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.runconfiguration/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.qa/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-multiline/solutions/de.slisson.mps.editor.multiline.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/solutions/de.itemis.mps.tooltips.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.preferenceform.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.breadcrumb.editor/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.test/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.spreferences.context/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.dependenciesdiagram/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.review.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.var.composition/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.dependenciesdiagram/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.build/solutions/com.mbeddr.build/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/languages/com.mbeddr.analyses.base/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.var.rt.comp/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.interpreter/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.modellisteners/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.breadcrumb.editor/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.var.rt.comp/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.modellisteners/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.interpreter/runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.doc/languages/com.mbeddr.doc.self/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.propertydefault/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-boolean-editor/languages/de.itemis.mps.editor.bool/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/languages/com.mbeddr.analyses.cbmc.statemachines.experimental/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/solutions/de.slisson.mps.all.build/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.doc/languages/com.mbeddr.doc.gen_xhtml/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/languages/com.mbeddr.analyses.cbmc.statemachines.experimental/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.doc/languages/com.mbeddr.doc.gen_xhtml/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.bldoc/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.components.statemachine/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.refactoring/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.components.statemachine/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.propertydefault/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.refactoring/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.var.composition/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/diagram/solutions/de.itemis.mps.editor.diagram.shapes/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-boolean-editor/languages/de.itemis.mps.editor.bool/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.build/solutions/com.mbeddr.platform/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.nodeaccess/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.jung/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/languages/de.itemis.mps.editor.dropdown/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.conceptdiagram/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/languages/com.mbeddr.analyses.base.unittests/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.modules/solutions/pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.var.composition.c/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/languages/de.itemis.mps.editor.dropdown/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.framecell/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.conceptdiagram/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/languages/com.mbeddr.analyses.base.unittests/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.var.composition.c/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.framecell/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.components/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.refactoring.rt/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.requirements.c/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-hacks/solutions/de.slisson.mps.reflection.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.expressions/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.intentions/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.spreferences/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.intentions/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.targetchooser/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.components/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.requirements.c/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.doc/languages/com.mbeddr.doc.self/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/solutions/com.mbeddr.analyses.cbmc.statemachines.experimental.rt/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.spreferences/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/solutions/com.mbeddr.analyses.cbmc.components.rt/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.common/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.components/solutions/pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.trace/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.math/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.trace/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.math/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.review/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.editor.utils/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.multilingual.editor/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-multiline/languages/multiline/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.var.fm/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.doc/languages/terms/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-math/languages/de.itemis.mps.editor.math.notations/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-multiline/languages/multiline/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.spawner/languages/com.mbeddr.core.spawner/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.multilingual.editor/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.doc/languages/terms/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.margincell.editor/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.spreferences.context/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.trace/solutions/pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.udt/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.breadcrumb.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/languages/com.mbeddr.analyses.cbmc/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.plantuml.node/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/diagram/solutions/de.itemis.mps.editor.collapsible.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.globalgenerators.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/languages/com.mbeddr.analyses.cbmc/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.components.test/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.requirements.c2doc/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.buildconfig/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.components.test/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.modules/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.compositecomponents/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.requirements.c2doc/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.compositecomponents/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-richtext/languages/richtext/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-hacks/solutions/de.slisson.mps.hacks.editor/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.buildconfig/solution/pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.udt/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.runconfiguration/solutions/pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-math/languages/de.itemis.mps.editor.math.notations/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-richtext/languages/richtext/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/solutions/com.mbeddr.analyses.cbmc.statemachines.rt/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.httpserver/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.margincell.editor/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.modules/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.jung/solutions/pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.debugger.tests/languages/com.mbeddr.core.debug.test/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-tables/languages/de.slisson.mps.tables/runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.debugger.tests/languages/com.mbeddr.core.debug.test/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.httpsupport/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-hacks/solutions/de.itemis.mps.nativelibs.loader/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/diagram/languages/de.itemis.mps.editor.diagram.styles/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.expressions/solutions/pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.httpsupport/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.globalgenerators/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/diagram/languages/de.itemis.mps.editor.diagram.styles/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-conditional-editor/solutions/de.slisson.mps.conditionalEditor.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.review.readonly/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.hyperlink/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/diagram/languages/de.itemis.mps.editor.layout/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.hyperlink/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/diagram/languages/de.itemis.mps.editor.layout/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.editor.querylist.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.contextsidebar.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.globalgenerators/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.embedded/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-tables/languages/de.slisson.mps.tables/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.embedded/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.expressions/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.compare/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.doc/languages/com.mbeddr.doc.latex/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.compare/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/languages/de.slisson.mps.structurecheck/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.bldoc/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/languages/com.mbeddr.analyses.cbmc.rt/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.datepicker.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.modelcache/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/languages/com.mbeddr.analyses.cbmc/solutions/pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.margincell/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/languages/de.slisson.mps.structurecheck/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.components.mock/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.var.annotations/solutions/pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.debugger.tests/languages/com.mbeddr.core.debug.test/solutions/pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.buildconfig/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/solutions/com.mbeddr.analyses.sat4j.fm/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.requirements.wp/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.dependencies/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.unittest/solutions/pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.multilingual.baseLanguage/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.multilingual.common/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/languages/com.mbeddr.analyses.utils/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-richtext/languages/de.slisson.richtext.customcell/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.review.annotation/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.mappingLabels/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-richtext/languages/de.slisson.richtext.customcell/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.comparator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/solutions/de.slisson.mps.structurecheck.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.multilingual.baseLanguage/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/solutions/com.mbeddr.analyses.sat4j.fm.pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.modules.gen/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.multilingual.common/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.requirements.report/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.debugger/languages/com.mbeddr.core.debug.blext/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.requirements.report/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.review.annotation/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.components.mock/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/languages/testing/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.spreferences.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.debugger/languages/com.mbeddr.core.debug.blext/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.var.rt/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.breadcrumb/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/languages/testing/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.print.pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.components.embedded/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.util/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/diagram/languages/de.itemis.mps.editor.diagram.layout/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.components.embedded/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.doc/languages/com.mbeddr.doc/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.multilingual.concept.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/diagram/languages/de.itemis.mps.editor.diagram/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.modules.gen/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.multilingual.concept/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/diagram/languages/de.itemis.mps.editor.diagram.layout/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.util/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/languages/com.mbeddr.analyses.cbmc.core/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.multilingual.concept/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.doc/languages/com.mbeddr.doc/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/languages/com.mbeddr.analyses.cbmc.core/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.suppresswarning/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.statemachines/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.actionsfilter.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.requirements/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/languages/de.itemis.mps.selection.intentions/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.suppresswarning/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.legacy/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-conditional-editor/languages/de.slisson.mps.conditionalEditor/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/languages/de.itemis.mps.selection.intentions/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-tables/languages/de.slisson.mps.tables/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/diagram/languages/de.itemis.mps.editor.diagram/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.interpreter.test/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-conditional-editor/languages/de.slisson.mps.conditionalEditor/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.doc/languages/com.mbeddr.doc.gen_latex/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.statemachines/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.interpreter.test/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.doc/languages/com.mbeddr.doc.gen_latex/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.preferenceform/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/diagram/solutions/de.itemis.mps.editor.diagram.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.preferenceform/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.unittest/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-math/solutions/de.itemis.mps.editor.math.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.var.rt/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.richstring/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/solutions/de.itemis.mps.editor.dropdown.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.javainterpreter.richstring/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-hacks/languages/de.slisson.mps.reflection/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.richstring/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.legacy/solutions/pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.unittest/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/plugins/sl-all/mps-hacks/languages/de.slisson.mps.reflection/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.statements/solutions/pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/languages/com.mbeddr.analyses.cbmc.concurrency/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.units/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.cc/languages/com.mbeddr.cc.requirements/solutions/pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.util/solutions/pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/languages/com.mbeddr.analyses.cbmc.concurrency/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.units/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/solutions/com.mbeddr.mpsutil.multilingual.common.runtime/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.statemachines/pluginSolution/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.mappingLabels/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.serialization/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.statements/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.analyses/solutions/com.mbeddr.analyses.cbmc.core.rt/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.ext/languages/com.mbeddr.ext.serialization/generator/classes_gen/" />
+    <ignored path="$mbeddr.github.core.home$/code/languages/com.mbeddr.core/languages/com.mbeddr.core.checks/classes_gen/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ConsoleHistory">
+    <option name="tabs">
+      <list>
+        <TabState>
+          <option name="title" value="Console" />
+          <option name="history" value="kaurqQAABAAHKICCIA9/mE1Gjwj8yZa8JgMAABZUZW1wTW9kZWxfNzQ4MTA0NDE0MTM5F0h5GQCtvjdHRaJQVHQinIrkAAAuVGVtcE1vZHVsZTc5MTkwMGFkLWJlMzctNDc0NS1hMjUwLTU0NzQyMjljOGFlNP////+rq6urWlpaWgACzqtRlSXqTyKbkhA7lcqMDAAAF2pldGJyYWlucy5tcHMubGFuZy5jb3JlAAEAAAEQOW6qpAAADUlOYW1lZENvbmNlcHQAEgABAAABEDluwEEAAARuYW1lAAAAAN4a2G1uUEoCswbU0X9kw3UAABpqZXRicmFpbnMubXBzLmNvbnNvbGUuYmFzZQADFfs0BR9yWiwAAAtDb25zb2xlUm9vdAASAAAAAAACFfs0BR9yW68AAAdoaXN0b3J5ABX7NAUfcluxAAANY29tbWFuZEhvbGRlcgAE4nFgrLRISwAADUNvbW1hbmRIb2xkZXIAEgAAAAAAAAqDXyjBqgK+AAAHSGlzdG9yeQASAAAAAAAApaWlpQAF3hrYbW5QSgKzBtTRf2TDdQEAAAAF//////JmkdIN70wGrsYsuQxK8KQAAB1qZXRicmFpbnMubXBzLmNvbnNvbGUuc2NyaXB0c/////8ahVTE64RDuow0bw2QxudaAAAfamV0YnJhaW5zLm1wcy5jb25zb2xlLmJsQ29tbWFuZP////+l5N5TRqNE2qqzaP3xw07QAAAhamV0YnJhaW5zLm1wcy5jb25zb2xlLmlkZUNvbW1hbmRz/////5lac5R/dkuLqSnFNEhwgQYAACZqZXRicmFpbnMubXBzLmNvbnNvbGUuaW50ZXJuYWxDb21tYW5kc/////8AAAABF0j7wl3SXaRIOosZcJKOG2LXAAAkamV0YnJhaW5zLm1wcy5kZXZraXQuZ2VuZXJhbC1wdXJwb3NlAAAABQcoNZsdK3fERt+b8rJcvqMiVAAAJGpldGJyYWlucy5tcHMuY29uc29sZS5iYXNlLnN0cnVjdHVyZXD/////ByjnEvNTXDxCiK3Oh8lWpS/7AAAnamV0YnJhaW5zLm1wcy5jb25zb2xlLnNjcmlwdHMuc3RydWN0dXJlcP////8HKJNboO5ykUyqqAfXbo/Gk5EAAClqZXRicmFpbnMubXBzLmNvbnNvbGUuYmxDb21tYW5kLnN0cnVjdHVyZXD/////BygTWmBvA3ZMXJq4QDDwUaBiAAAramV0YnJhaW5zLm1wcy5jb25zb2xlLmlkZUNvbW1hbmRzLnN0cnVjdHVyZXD/////ByiQRFIGqXNMHbdgMOXHe3SXAAAwamV0YnJhaW5zLm1wcy5jb25zb2xlLmludGVybmFsQ29tbWFuZHMuc3RydWN0dXJlcP////+6urq6AAAAAQABGC6YMzpRxWYn//97AAAAAAAAAAAAAgADGC6YMzpRxWZdAAB7AAAAAAAAAAAAAH0AAhgumDM6UcVmXgABewABAAABAAAACQAAAAAAAAAAfX0=" />
+        </TabState>
+      </list>
+    </option>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DefaultSearchOptions2">
+    <search_options>
+      <option class_name="jetbrains.mps.ide.findusages.view.optionseditor.options.ViewOptions">
+        <flags show_one_result="true" new_tab="false" />
+      </option>
+      <option class_name="jetbrains.mps.ide.findusages.view.optionseditor.options.ScopeOptions">
+        <scope_type scope_type="PROJECT" module="&lt;default&gt;" model="&lt;default&gt;" />
+      </option>
+    </search_options>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main" pinned="false" current-in-tab="true">
+        <entry file="mps://node://Testing/Testing.cbmcCheck/main">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="selectionEnd" value="4" />
+                    <property name="hasNonTrivialSelection" value="true" />
+                    <property name="caretXRelative" value="28" />
+                    <property name="selectionStart" value="0" />
+                    <property name="caretX" value="170" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="FS_property_name" cellNumber="0" isInList="false">
+                      <node node_reference="r:0ceb4f5b-e39b-4f5e-828e-8842549328bf(Testing.cbmcCheck)/3357489847780518767" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <folded />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:0ceb4f5b-e39b-4f5e-828e-8842549328bf(Testing.cbmcCheck)/3357489847780518767" viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <errorMarkers />
+                <folded />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BuildConfiguration (T.cbmcCheck)" pinned="false" current-in-tab="false">
+        <entry file="mps://node://Testing/Testing.cbmcCheck/BuildConfiguration (T.cbmcCheck)">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretXRelative" value="28" />
+                    <property name="caretX" value="95" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="property_gdb" cellNumber="0" isInList="false">
+                      <node node_reference="r:0ceb4f5b-e39b-4f5e-828e-8842549328bf(Testing.cbmcCheck)/3357489847781147272" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <folded />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:0ceb4f5b-e39b-4f5e-828e-8842549328bf(Testing.cbmcCheck)/3357489847780518767" viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <errorMarkers />
+                <folded />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="MPSBookmarkManager">
+    <option name="myBookmarkInfos">
+      <array>
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+      </array>
+    </option>
+  </component>
+  <component name="MigrationTrigger">
+    <option name="migrationRequired" value="true" />
+  </component>
+  <component name="NodeEditorSearchHistory">
+    <option name="searches">
+      <list>
+        <option value="execu" />
+        <option value=" run" />
+        <option value="run(" />
+        <option value="run" />
+        <option value="send(" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="59" />
+    <option name="y" value="24" />
+    <option name="width" value="1307" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectPluginManager">
+    <option name="pluginsState">
+      <option name="com.mbddr.core.buildconfig.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState>
+            <option name="myComponentsState">
+              <list>
+                <ComponentState>
+                  <option name="first" value="com.mbeddr.mpsutil.spreferences.runtime.SPrefererencesComponent" />
+                </ComponentState>
+              </list>
+            </option>
+          </PluginState>
+        </value>
+      </option>
+      <option name="com.mbeddr.analyses.cbmc.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState>
+            <option name="myComponentsState">
+              <list>
+                <ComponentState>
+                  <option name="first" value="com.mbeddr.analyses.cbmc.pluginSolution.plugin.cproverPreferences_PreferencesComponent" />
+                  <params>
+                    <option name="numberOfThreads" value="3" />
+                    <option name="timeoutForPartialAnalysis" value="600" />
+                    <option name="timeoutForAnAnalysis" value="600" />
+                    <option name="usedPreprocessor" value="GCC" />
+                    <option name="rebuildModelsBeforeAnalysis" value="true" />
+                    <option name="sliceFormula" value="true" />
+                    <option name="unwindingDepth" value="71" />
+                    <option name="unwindingAssertions" value="false" />
+                    <option name="partialLoops" value="true" />
+                    <option name="useRefinement" value="false" />
+                    <option name="wordWidth" value="default" />
+                  </params>
+                </ComponentState>
+              </list>
+            </option>
+          </PluginState>
+        </value>
+      </option>
+      <option name="com.mbeddr.analyses.sat4j.fm.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.mbeddr.core.base.plugin.Base_ProjectPlugin">
+        <value>
+          <PluginState>
+            <option name="myComponentsState">
+              <list>
+                <ComponentState>
+                  <option name="first" value="com.mbeddr.mpsutil.spreferences.runtime.SPrefererencesComponent" />
+                </ComponentState>
+              </list>
+            </option>
+          </PluginState>
+        </value>
+      </option>
+      <option name="com.mbeddr.core.base.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState>
+            <option name="myComponentsState">
+              <list>
+                <ComponentState>
+                  <option name="first" value="com.mbeddr.core.base.pluginSolution.plugin.mbeddrPreferences_PreferencesComponent" />
+                  <params>
+                    <option name="mbeddrMenuEnabled" value="true" />
+                  </params>
+                </ComponentState>
+              </list>
+            </option>
+          </PluginState>
+        </value>
+      </option>
+      <option name="com.mbeddr.core.runconfiguration.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.mbeddr.mpsutil.breadcrumb.runtime.plugin.Runtime_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.mbeddr.mpsutil.contextsidebar.plugin.Contextsidebar_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.mbeddr.mpsutil.contextsidebar.runtime.plugin.Runtime_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.mbeddr.mpsutil.hyperlink.plugin.Hyperlink_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.mbeddr.mpsutil.intentions.runtime.plugin.Runtime_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.mbeddr.mpsutil.jung.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.mbeddr.mpsutil.modelcache.plugin.Modelcache_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.mbeddr.mpsutil.multilingual.concept.runtime.plugin.Runtime_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.mbeddr.mpsutil.multilingual.settings.runtime.plugin.Runtime_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.mbeddr.mpsutil.nodeviewer.plugin.Nodeviewer_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.mbeddr.mpsutil.plantuml.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.mbeddt.core.expressions.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState>
+            <option name="myComponentsState">
+              <list>
+                <ComponentState>
+                  <option name="first" value="com.mbeddr.mpsutil.spreferences.runtime.SPrefererencesComponent" />
+                </ComponentState>
+              </list>
+            </option>
+          </PluginState>
+        </value>
+      </option>
+      <option name="de.itemis.mps.editor.diagram.runtime.plugin.Runtime_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="de.itemis.mps.mouselistener.runtime.plugin.Runtime_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="de.itemis.mps.selection.runtime.plugin.Runtime_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="de.itemis.mps.tooltips.runtime.plugin.Runtime_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="de.slisson.mps.conditionalEditor.runtime.plugin.Runtime_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.baseLanguage.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.execution.configurations.implementation.plugin.plugin.Plugin_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.execution.configurations.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ide.actions.Ide_ProjectPlugin">
+        <value>
+          <PluginState>
+            <option name="myComponentsState">
+              <list>
+                <ComponentState>
+                  <option name="first" value="jetbrains.mps.ide.actions.BehaviorDialogsPersistentOptions_PreferencesComponent" />
+                  <params>
+                    <option name="addReturnsOnImplement" value="false" />
+                    <option name="sortAlphabetically" value="false" />
+                    <option name="removeAttributes" value="true" />
+                  </params>
+                </ComponentState>
+              </list>
+            </option>
+          </PluginState>
+        </value>
+      </option>
+      <option name="jetbrains.mps.ide.devkit.actions.Mpsdevkit_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+    </option>
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="FileSystem" />
+      <pane id="Favorites" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Empty">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Empty">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Project">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Empty">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Project">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Testing">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Testing">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Testing.cbmcCheck">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="configurable.group.appearance" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$headerimporter.home$/STDIOImporter" />
+    <property name="com.mbeddr.mpsutil.multilingual.concept.runtime.plugin.MultilingualConceptProjectPlugin_CustomProjectPlugin.showTranslations" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Mbeddr Binary" factoryName="mbeddr executable configuration">
+      <MyState>
+        <option name="mySettings">
+          <MbeddrSettings>
+            <option name="commandTimeout" value="500" />
+            <option name="launchTimeout" value="1200" />
+          </MbeddrSettings>
+        </option>
+      </MyState>
+      <binary>
+        <MyState>
+          <option name="myNodeId" />
+          <option name="myModelId" />
+        </MyState>
+      </binary>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myLightExec" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/tmp/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="Application" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="59" y="24" width="1307" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Search" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Variabiity Consistency Verification" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921174" sideWeight="0.49960285" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Diagram Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29166666" sideWeight="0.48431522" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.49960285" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13936782" sideWeight="0.6258936" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Tree" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31522572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37629628" sideWeight="0.624305" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32592592" sideWeight="0.49960285" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4295977" sideWeight="0.68706965" order="18" side_tool="true" content_ui="tabs" />
+      <window_info id="Context Sidebar" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="19" side_tool="false" content_ui="tabs" />
+      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="20" side_tool="false" content_ui="tabs" />
+      <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Visualization" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="mbeddr TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="21" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="22" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Graph Viewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37212643" sideWeight="0.62586075" order="23" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="24" side_tool="false" content_ui="tabs" />
+      <window_info id="CBMC raw result" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29166666" sideWeight="0.5156848" order="23" side_tool="false" content_ui="tabs" />
+      <window_info id="CBMC Lifted Results" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26243305" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="25" side_tool="false" content_ui="tabs" />
+      <window_info id="Node Info" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="26" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Verification (CBMC)" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22403258" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="UsagesViewTool">
+    <version id="0.9997" />
+    <tabs />
+    <default_view_options>
+      <options category_option="false" module_option="true" model_option="true" root_option="true" path_option="false" count_option="true" info_option="true" view_searched_nodes_option="true" group_searched_nodes_option="true" autoscroll_option="false" />
+    </default_view_options>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="mps://node://NewLanguage.sandbox/NewLanguage.sandbox.File/OpeningFile">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="8" />
+                <property name="caretX" value="103" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_evgwyu_c0" cellNumber="0" isInList="false">
+                  <node node_reference="r:385a3d5b-41e1-4bc5-95ce-dd5cfea3a2c6(NewLanguage.sandbox.File)/2429614409469946805" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:385a3d5b-41e1-4bc5-95ce-dd5cfea3a2c6(NewLanguage.sandbox.File)/2429614409469946805" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FunctionContract/FunctionContract.structure/CheckFunctionPreconditions">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="44" />
+                <property name="caretX" value="207" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_value" cellNumber="0" isInList="false">
+                  <node node_reference="r:56ebf61c-1a15-47af-a4a5-86cc78fb64e5(FunctionContract.behavior)/598028305536733250" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:56ebf61c-1a15-47af-a4a5-86cc78fb64e5(FunctionContract.behavior)/598028305536733250" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:56ebf61c-1a15-47af-a4a5-86cc78fb64e5(FunctionContract.behavior)/598028305532169113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FunctionContract/FunctionContract.structure/Preconditions">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="44" />
+                <property name="caretX" value="207" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_value" cellNumber="0" isInList="false">
+                  <node node_reference="r:56ebf61c-1a15-47af-a4a5-86cc78fb64e5(FunctionContract.behavior)/598028305537017105" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:56ebf61c-1a15-47af-a4a5-86cc78fb64e5(FunctionContract.behavior)/598028305537017105" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:56ebf61c-1a15-47af-a4a5-86cc78fb64e5(FunctionContract.behavior)/598028305537015451" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://NewLanguage.sandbox/NewLanguage.Client/SomeFuncs">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="32" />
+                <property name="caretX" value="223" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:e6d22112-83cf-40b7-8480-62b0da416680(NewLanguage.Client)/4052493889681919943" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:e6d22112-83cf-40b7-8480-62b0da416680(NewLanguage.Client)/598028305534209319" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://NewLanguage.sandbox/NewLanguage.Client/Client">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="selectionEnd" value="4" />
+                <property name="hasNonTrivialSelection" value="true" />
+                <property name="caretXRelative" value="28" />
+                <property name="selectionStart" value="0" />
+                <property name="caretX" value="159" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="FS_property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:e6d22112-83cf-40b7-8480-62b0da416680(NewLanguage.Client)/4052493889681835101" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:e6d22112-83cf-40b7-8480-62b0da416680(NewLanguage.Client)/598028305534209319" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://NewLanguage.sandbox/httpserver/header">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="12" />
+                <property name="caretX" value="175" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="ALIAS_EDITOR_COMPONENT" cellNumber="0" isInList="false">
+                  <node node_reference="r:c929ffe9-4127-4e89-8292-1679e4c00078(httpserver)/5971066364098851592" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:e6d22112-83cf-40b7-8480-62b0da416680(NewLanguage.Client)/598028305534209319" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://NewLanguage.sandbox/NewLanguage.Client/FunctionContracts">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="16" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretXRelative" value="-31" />
+                <property name="caretX" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_qlu1z0_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:e6d22112-83cf-40b7-8480-62b0da416680(NewLanguage.Client)/3013452553461890270" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:e6d22112-83cf-40b7-8480-62b0da416680(NewLanguage.Client)/598028305534209319" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://NewLanguage.sandbox/NewLanguage.Client/CSDeclarations">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="121">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="135" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="ALIAS_EDITOR_COMPONENT" cellNumber="0" isInList="false">
+                  <node node_reference="r:e6d22112-83cf-40b7-8480-62b0da416680(NewLanguage.Client)/3013452553458990900" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:e6d22112-83cf-40b7-8480-62b0da416680(NewLanguage.Client)/598028305534209319" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://NewLanguage.sandbox/NewLanguage.Client/FunctionContracts2">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="300">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="88" />
+                <property name="caretX" value="119" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_5fnqeg_a2a" cellNumber="0" isInList="false">
+                  <node node_reference="r:e6d22112-83cf-40b7-8480-62b0da416680(NewLanguage.Client)/598028305534209319" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:e6d22112-83cf-40b7-8480-62b0da416680(NewLanguage.Client)/598028305534209319" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://NewLanguage.sandbox/NewLanguage.Test/FunctionContracts">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="23">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="15" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:fa46949a-b17b-4681-9b5e-c7b251b7cb67(NewLanguage.Test)/7519962224659572325" />
+                </cellInfo>
+              </stackElement>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.NodeRangeSelection">
+                <property name="modelId" value="r:fa46949a-b17b-4681-9b5e-c7b251b7cb67(NewLanguage.Test)" />
+                <property name="lastNodeId" value="7519962224659572325" />
+                <property name="parentNodeId" value="6703419173937277384" />
+                <property name="firstNodeId" value="7519962224659572325" />
+                <property name="role" value="contents" />
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:fa46949a-b17b-4681-9b5e-c7b251b7cb67(NewLanguage.Test)/7519962224659572325" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://NewLanguage.sandbox/NewLanguage.Test/Code">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="20" />
+                <property name="caretX" value="151" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="FS_property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:fa46949a-b17b-4681-9b5e-c7b251b7cb67(NewLanguage.Test)/2616589542500191525" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:385a3d5b-41e1-4bc5-95ce-dd5cfea3a2c6(NewLanguage.sandbox.File)/2429614409469691066" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.core.statements/com.mbeddr.core.statements.structure/LocalVariableDeclaration">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="367" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:9f0e84b6-2ec7-4f9e-83e0-feedc77b63a3(com.mbeddr.core.statements.structure)/4474148880361420178" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:9f0e84b6-2ec7-4f9e-83e0-feedc77b63a3(com.mbeddr.core.statements.structure)/4474148880361420178" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+          <node node_ref="r:9f0e84b6-2ec7-4f9e-83e0-feedc77b63a3(com.mbeddr.core.statements.structure)/4185783222026475238" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FunctionContract/FunctionContract.structure/ArgReference">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="15" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:bcf4a785-1586-4082-a483-f17b53599959(FunctionContract.structure)/8517328719846138812" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:bcf4a785-1586-4082-a483-f17b53599959(FunctionContract.structure)/8517328719846138812" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:bcf4a785-1586-4082-a483-f17b53599959(FunctionContract.structure)/8517328719846138812" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FunctionContract/FunctionContract.structure/RangeExpression">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="56" />
+                <property name="caretX" value="71" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:bcf4a785-1586-4082-a483-f17b53599959(FunctionContract.structure)/2742180936283090448" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:bcf4a785-1586-4082-a483-f17b53599959(FunctionContract.structure)/2742180936283090448" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:bcf4a785-1586-4082-a483-f17b53599959(FunctionContract.structure)/2742180936283090448" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FunctionContract/FunctionContract.structure/FunctionContract">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="56" />
+                <property name="caretX" value="71" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:bcf4a785-1586-4082-a483-f17b53599959(FunctionContract.structure)/6705784806340590826" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:385a3d5b-41e1-4bc5-95ce-dd5cfea3a2c6(NewLanguage.sandbox.File)/2429614409469946797" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:bcf4a785-1586-4082-a483-f17b53599959(FunctionContract.structure)/6705784806340590826" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FunctionContract/FunctionContract.structure/ParameterRange">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="44" />
+                <property name="caretX" value="247" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_rootable" cellNumber="0" isInList="false">
+                  <node node_reference="r:bcf4a785-1586-4082-a483-f17b53599959(FunctionContract.structure)/7606008404080288638" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:bcf4a785-1586-4082-a483-f17b53599959(FunctionContract.structure)/7606008404080288638" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretXRelative" value="-15" />
+                <property name="caretX" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_ueqr71_a_0" cellNumber="0" isInList="false">
+                  <node node_reference="r:bcf4a785-1586-4082-a483-f17b53599959(FunctionContract.structure)/7606008404080288638" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+          <node node_ref="r:bcf4a785-1586-4082-a483-f17b53599959(FunctionContract.structure)/7606008404080288638" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.core.statements/com.mbeddr.core.statements.structure/Statement">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretXRelative" value="-15" />
+                <property name="caretX" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_ueqr71_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:9f0e84b6-2ec7-4f9e-83e0-feedc77b63a3(com.mbeddr.core.statements.structure)/4185783222026464515" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:9f0e84b6-2ec7-4f9e-83e0-feedc77b63a3(com.mbeddr.core.statements.structure)/4185783222026464515" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretXRelative" value="-15" />
+                <property name="caretX" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_ueqr71_a_0" cellNumber="0" isInList="false">
+                  <node node_reference="r:9f0e84b6-2ec7-4f9e-83e0-feedc77b63a3(com.mbeddr.core.statements.structure)/4185783222026464515" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+          <node node_ref="r:9f0e84b6-2ec7-4f9e-83e0-feedc77b63a3(com.mbeddr.core.statements.structure)/4185783222026464515" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.core.modules/com.mbeddr.core.modules.structure/Function">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretXRelative" value="-15" />
+                <property name="caretX" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_ueqr71_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)/6437088627575724001" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)/6437088627575724001" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretXRelative" value="-15" />
+                <property name="caretX" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_ueqr71_a_0" cellNumber="0" isInList="false">
+                  <node node_reference="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)/6437088627575724001" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+          <node node_ref="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)/6437088627575724001" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.core.modules/com.mbeddr.core.modules.structure/EmptyModuleContent">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="31" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_h1c0" cellNumber="0" isInList="false">
+                  <node node_reference="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)/8934095934011938595" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)/8934095934011938595" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretXRelative" value="-15" />
+                <property name="caretX" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_ueqr71_a_0" cellNumber="0" isInList="false">
+                  <node node_reference="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)/8934095934011938595" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+          <node node_ref="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)/8934095934011938595" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://jetbrains.mps.lang.smodel#1139186730696/jetbrains.mps.lang.smodel.generator.baseLanguage.template.main@generator/mc_node_operations">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="24" viewPositionY="349">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretXRelative" value="-31" />
+                <property name="caretX" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_c84kqv_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:00000000-0000-4000-0000-011c89590303(jetbrains.mps.lang.smodel.generator.baseLanguage.template.main@generator)/1171416050075" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c89590303(jetbrains.mps.lang.smodel.generator.baseLanguage.template.main@generator)/1171416050075" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretXRelative" value="-15" />
+                <property name="caretX" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_c84kqv_a_0" cellNumber="0" isInList="false">
+                  <node node_reference="r:00000000-0000-4000-0000-011c89590303(jetbrains.mps.lang.smodel.generator.baseLanguage.template.main@generator)/1171416050075" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://NewLanguage.sandbox/NewLanguage.sandbox.File/BuildConfiguration (N.s.File)">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="60">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="168" />
+                <property name="caretX" value="215" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:385a3d5b-41e1-4bc5-95ce-dd5cfea3a2c6(NewLanguage.sandbox.File)/2429614409469984428" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:385a3d5b-41e1-4bc5-95ce-dd5cfea3a2c6(NewLanguage.sandbox.File)/2429614409469984428" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://NewLanguage.sandbox/NewLanguage.sandbox.File/STDIOHeader">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="875">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="8" />
+                <property name="caretX" value="201" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_fogur5_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:385a3d5b-41e1-4bc5-95ce-dd5cfea3a2c6(NewLanguage.sandbox.File)/2429614409469690979" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:96b0e7fc-b25f-423d-be1d-3c002b6a784d(FunctionContract.generator.VerifiableFunctionCall@generator)/8240244371749922304" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://NewLanguage.sandbox/NewLanguage.sandbox.File/FileFunctionContracts">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="305">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="15" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_yww9py_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:385a3d5b-41e1-4bc5-95ce-dd5cfea3a2c6(NewLanguage.sandbox.File)/8240244371750430604" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:385a3d5b-41e1-4bc5-95ce-dd5cfea3a2c6(NewLanguage.sandbox.File)/8240244371750430604" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.core.modules/com.mbeddr.core.modules.structure/ImplementationModule">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretXRelative" value="-15" />
+                <property name="caretX" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_ueqr71_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)/6437088627575722830" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)/6437088627575722830" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretXRelative" value="-15" />
+                <property name="caretX" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_ueqr71_a_0" cellNumber="0" isInList="false">
+                  <node node_reference="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)/6437088627575722830" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+          <node node_ref="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)/6437088627575722830" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FunctionContract#7606008404079992337/FunctionContract.generator.VerifiableFunctionCall@generator/main">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="963">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="218" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_7x7o5m_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:96b0e7fc-b25f-423d-be1d-3c002b6a784d(FunctionContract.generator.VerifiableFunctionCall@generator)/4686410186993668186" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers>
+              <errorMarker text="" propertyCell="false" cellNumber="1" isInList="false">
+                <node node_reference="r:96b0e7fc-b25f-423d-be1d-3c002b6a784d(FunctionContract.generator.VerifiableFunctionCall@generator)/4569257597362068969" />
+                <parent cellId="Collection_crgygw_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:96b0e7fc-b25f-423d-be1d-3c002b6a784d(FunctionContract.generator.VerifiableFunctionCall@generator)/4569257597362068974" />
+                </parent>
+              </errorMarker>
+              <errorMarker text="" propertyCell="false" cellNumber="1" isInList="false">
+                <node node_reference="r:96b0e7fc-b25f-423d-be1d-3c002b6a784d(FunctionContract.generator.VerifiableFunctionCall@generator)/4569257597362066602" />
+                <parent cellId="Collection_crgygw_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:96b0e7fc-b25f-423d-be1d-3c002b6a784d(FunctionContract.generator.VerifiableFunctionCall@generator)/4569257597362066607" />
+                </parent>
+              </errorMarker>
+              <errorMarker text="" propertyCell="false" cellNumber="1" isInList="false">
+                <node node_reference="r:96b0e7fc-b25f-423d-be1d-3c002b6a784d(FunctionContract.generator.VerifiableFunctionCall@generator)/7519962224660388993" />
+                <parent cellId="Collection_crgygw_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:96b0e7fc-b25f-423d-be1d-3c002b6a784d(FunctionContract.generator.VerifiableFunctionCall@generator)/7519962224660388995" />
+                </parent>
+              </errorMarker>
+              <errorMarker text="" propertyCell="false" cellNumber="1" isInList="false">
+                <node node_reference="r:96b0e7fc-b25f-423d-be1d-3c002b6a784d(FunctionContract.generator.VerifiableFunctionCall@generator)/6563710535925857594" />
+                <parent cellId="Collection_crgygw_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:96b0e7fc-b25f-423d-be1d-3c002b6a784d(FunctionContract.generator.VerifiableFunctionCall@generator)/6563710535926535332" />
+                </parent>
+              </errorMarker>
+            </errorMarkers>
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:385a3d5b-41e1-4bc5-95ce-dd5cfea3a2c6(NewLanguage.sandbox.File)/3640257769781560972" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FunctionContract#7606008404079992337/FunctionContract.generator.VerifiableFunctionCall@generator/pre-script">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="60">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="16" />
+                <property name="caretX" value="95" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_eb7h0d_a0" cellNumber="0" isInList="false">
+                  <node node_reference="r:96b0e7fc-b25f-423d-be1d-3c002b6a784d(FunctionContract.generator.VerifiableFunctionCall@generator)/3640257769781607410" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d19769e5-1e4e-4f47-97e0-f09ed0c6e301(PluginTest.plugin)/7634203028838788896" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/PluginTest/source_gen/PluginTest/plugin/VerifyFunctions_Action.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.6513157" vertical-offset="0" max-vertical-offset="1905">
+          <caret line="111" column="27" selection-start-line="111" selection-start-column="27" selection-end-line="111" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://PluginTest/PluginTest.plugin/VerifyFunctions">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="133">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="56" />
+                <property name="caretX" value="439" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:d19769e5-1e4e-4f47-97e0-f09ed0c6e301(PluginTest.plugin)/6691430732448155876" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d19769e5-1e4e-4f47-97e0-f09ed0c6e301(PluginTest.plugin)/4370106823485212153" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://PluginTest/PluginTest.plugin/VerifyFS">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="4" />
+                <property name="caretX" value="63" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:d19769e5-1e4e-4f47-97e0-f09ed0c6e301(PluginTest.plugin)/4370106823485945514" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d19769e5-1e4e-4f47-97e0-f09ed0c6e301(PluginTest.plugin)/4370106823485212153" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.analyses.cbmc.rt/com.mbeddr.analyses.cbmc.rt.analyses.claims/ClaimsAnalyzer">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="102" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="108" />
+                <property name="caretX" value="703" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="ReferencePresentation_91bvrs_a0a0" cellNumber="0" isInList="false">
+                  <node node_reference="r:0cb4b184-9d83-4ed6-8dd4-842bbe536e91(com.mbeddr.analyses.cbmc.rt.analyses.claims)/7327349313007607964" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d19769e5-1e4e-4f47-97e0-f09ed0c6e301(PluginTest.plugin)/2185895991999132238" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.analyses.cbmc.rt/com.mbeddr.analyses.cbmc.rt.counterexample.lifted.model/CBMCLiftedResult">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="8" />
+                <property name="caretX" value="39" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_fao2ea_c0" cellNumber="0" isInList="false">
+                  <node node_reference="r:147b294d-1dd0-41c5-9d44-67586fcda349(com.mbeddr.analyses.cbmc.rt.counterexample.lifted.model)/5713882995807287411" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:147b294d-1dd0-41c5-9d44-67586fcda349(com.mbeddr.analyses.cbmc.rt.counterexample.lifted.model)/5713882995807287411" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://PluginTest/PluginTest.plugin/StandalonePluginDescriptor">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="15" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_lfvdu_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d19769e5-1e4e-4f47-97e0-f09ed0c6e301(PluginTest.plugin)/4370106823485212153" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d19769e5-1e4e-4f47-97e0-f09ed0c6e301(PluginTest.plugin)/4370106823485212153" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.analyses.cbmc.core.pluginSolution/com.mbeddr.analyses.cbmc.core.pluginSolution.plugin/CbmcGroup">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="4" />
+                <property name="caretX" value="63" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:356e7e3e-c924-4b1d-aa48-d083518889e1(com.mbeddr.analyses.cbmc.core.pluginSolution.plugin)/4799680529825027720" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:356e7e3e-c924-4b1d-aa48-d083518889e1(com.mbeddr.analyses.cbmc.core.pluginSolution.plugin)/4053481679314419787" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.analyses.cbmc.core.pluginSolution/com.mbeddr.analyses.cbmc.core.pluginSolution.plugin/CbmcRobustnessAction">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="166">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="4" />
+                <property name="caretX" value="71" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:356e7e3e-c924-4b1d-aa48-d083518889e1(com.mbeddr.analyses.cbmc.core.pluginSolution.plugin)/4053481679314419787" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:356e7e3e-c924-4b1d-aa48-d083518889e1(com.mbeddr.analyses.cbmc.core.pluginSolution.plugin)/4053481679314419787" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.analyses.cbmc.rt/com.mbeddr.analyses.cbmc.rt.counterexample.lifted.builder/CBMCLiftedResultBuilder">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="16" viewPositionY="347">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="16" />
+                <property name="caretX" value="431" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:80dc224f-cfbc-4d66-ab57-5e00bae3bc4a(com.mbeddr.analyses.cbmc.rt.counterexample.lifted.builder)/8512648932379189740" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:80dc224f-cfbc-4d66-ab57-5e00bae3bc4a(com.mbeddr.analyses.cbmc.rt.counterexample.lifted.builder)/8512648932379189740" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://PluginTest/PluginTest.plugin/VerifyingFunctionAnalyzerFactory">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="148" />
+                <property name="caretX" value="223" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="ReferencePresentation_53xyyk_a0b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:d19769e5-1e4e-4f47-97e0-f09ed0c6e301(PluginTest.plugin)/6691430732448727036" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d19769e5-1e4e-4f47-97e0-f09ed0c6e301(PluginTest.plugin)/6691430732448727036" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.analyses.cbmc.rt/com.mbeddr.analyses.cbmc.rt.run/CProverAnalysesUtils">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="16" viewPositionY="103">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="8" />
+                <property name="caretX" value="455" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_t6d1qn_k0" cellNumber="0" isInList="false">
+                  <node node_reference="r:b35b0dd8-a38e-4607-ba37-cc8f7410b705(com.mbeddr.analyses.cbmc.rt.run)/4138212153606938203" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b35b0dd8-a38e-4607-ba37-cc8f7410b705(com.mbeddr.analyses.cbmc.rt.run)/4138212153606938203" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.analyses.cbmc.rt/com.mbeddr.analyses.cbmc.rt.run/CProverAnalyzerFactory">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="8" />
+                <property name="caretX" value="327" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_2sbeba_j0" cellNumber="0" isInList="false">
+                  <node node_reference="r:b35b0dd8-a38e-4607-ba37-cc8f7410b705(com.mbeddr.analyses.cbmc.rt.run)/6312602702203557762" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b35b0dd8-a38e-4607-ba37-cc8f7410b705(com.mbeddr.analyses.cbmc.rt.run)/6312602702203557762" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.analyses.cbmc.core.pluginSolution/com.mbeddr.analyses.cbmc.core.pluginSolution.plugin/CbmcVerifyAssertsAction">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="183">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="44" />
+                <property name="caretX" value="407" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:356e7e3e-c924-4b1d-aa48-d083518889e1(com.mbeddr.analyses.cbmc.core.pluginSolution.plugin)/4138212153606963209" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:5a6e4bc9-0a07-41cd-ab54-88993517e687(com.mbeddr.analyses.cbmc.core.rt.analyses.asserts)/4138212153606954181" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.analyses.cbmc.core.rt/com.mbeddr.analyses.cbmc.core.rt.analyses.asserts/CBMCAssertResultBuilder">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="8" />
+                <property name="caretX" value="39" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_fao2ea_c0" cellNumber="0" isInList="false">
+                  <node node_reference="r:5a6e4bc9-0a07-41cd-ab54-88993517e687(com.mbeddr.analyses.cbmc.core.rt.analyses.asserts)/7293175055890183687" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:5a6e4bc9-0a07-41cd-ab54-88993517e687(com.mbeddr.analyses.cbmc.core.rt.analyses.asserts)/7293175055890183687" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.analyses.cbmc.core.rt/com.mbeddr.analyses.cbmc.core.rt.analyses.asserts/CBMCAssertResult">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="31" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_s96plr_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:5a6e4bc9-0a07-41cd-ab54-88993517e687(com.mbeddr.analyses.cbmc.core.rt.analyses.asserts)/7293175055890149658" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:5a6e4bc9-0a07-41cd-ab54-88993517e687(com.mbeddr.analyses.cbmc.core.rt.analyses.asserts)/5738929523987351392" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://PluginTest/PluginTest.plugin/VerifyFunctionAnalyser">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="79" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name_1" cellNumber="0" isInList="false">
+                  <node node_reference="r:d19769e5-1e4e-4f47-97e0-f09ed0c6e301(PluginTest.plugin)/2185895991999219279" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d19769e5-1e4e-4f47-97e0-f09ed0c6e301(PluginTest.plugin)/7293175055890154260" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.analyses.cbmc.core.rt/com.mbeddr.analyses.cbmc.core.rt.analyses.asserts/AssertionsAnalyzerFactory">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="100" />
+                <property name="caretX" value="175" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="ReferencePresentation_53xyyk_a0b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:5a6e4bc9-0a07-41cd-ab54-88993517e687(com.mbeddr.analyses.cbmc.core.rt.analyses.asserts)/4138212153606954181" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:5a6e4bc9-0a07-41cd-ab54-88993517e687(com.mbeddr.analyses.cbmc.core.rt.analyses.asserts)/4053481679314388552" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretXRelative" value="-15" />
+                <property name="caretX" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_1x071y_a_0" cellNumber="0" isInList="false">
+                  <node node_reference="r:5a6e4bc9-0a07-41cd-ab54-88993517e687(com.mbeddr.analyses.cbmc.core.rt.analyses.asserts)/4053481679314388552" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://com.mbeddr.analyses.cbmc.core.rt/com.mbeddr.analyses.cbmc.core.rt.analyses.asserts/AssertionsAnalyzer">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="88" viewPositionY="120">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="8" />
+                <property name="caretX" value="441" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_zedcwq_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:5a6e4bc9-0a07-41cd-ab54-88993517e687(com.mbeddr.analyses.cbmc.core.rt.analyses.asserts)/5738929523987351392" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:5a6e4bc9-0a07-41cd-ab54-88993517e687(com.mbeddr.analyses.cbmc.core.rt.analyses.asserts)/5738929523987351392" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://PluginTest/PluginTest.plugin/VerifyFunctionResultBuilder">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="180">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="124" />
+                <property name="caretX" value="255" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="ReferencePresentation_53xyyk_a0b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:d19769e5-1e4e-4f47-97e0-f09ed0c6e301(PluginTest.plugin)/6691430732448824119" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d19769e5-1e4e-4f47-97e0-f09ed0c6e301(PluginTest.plugin)/7293175055890151521" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretXRelative" value="-15" />
+                <property name="caretX" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_1x071y_a_0" cellNumber="0" isInList="false">
+                  <node node_reference="r:d19769e5-1e4e-4f47-97e0-f09ed0c6e301(PluginTest.plugin)/7293175055890151521" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://PluginTest/PluginTest.plugin/VerifyFunctionResult">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="31" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_s96plr_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d19769e5-1e4e-4f47-97e0-f09ed0c6e301(PluginTest.plugin)/7055142950403938860" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d19769e5-1e4e-4f47-97e0-f09ed0c6e301(PluginTest.plugin)/7055142950403938860" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://NewLanguage.sandbox/NewLanguage.sandbox.File/OpeningFile">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="selectionEnd" value="7" />
+                <property name="hasNonTrivialSelection" value="true" />
+                <property name="caretXRelative" value="40" />
+                <property name="selectionStart" value="0" />
+                <property name="caretX" value="82" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_hd4ldv_a0" cellNumber="0" isInList="false">
+                  <node node_reference="r:385a3d5b-41e1-4bc5-95ce-dd5cfea3a2c6(NewLanguage.sandbox.File)/6691430732449030972" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:c929ffe9-4127-4e89-8292-1679e4c00078(httpserver)/1407192610363460497" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://NewLanguage.sandbox/NewLanguage.Test/Declarations">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="8">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="8" />
+                <property name="caretX" value="323" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_fogur5_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:fa46949a-b17b-4681-9b5e-c7b251b7cb67(NewLanguage.Test)/1920587863154804795" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:c929ffe9-4127-4e89-8292-1679e4c00078(httpserver)/1407192610363460497" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://NewLanguage.sandbox/httpserver/httpserver">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="1157">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="8" />
+                <property name="caretX" value="279" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_zedcwq_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:c929ffe9-4127-4e89-8292-1679e4c00078(httpserver)/1407192610363460497" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers>
+              <errorMarker text="" propertyCell="false" cellId="Error_1ltshm_a0" cellNumber="0" isInList="false">
+                <node node_reference="r:c929ffe9-4127-4e89-8292-1679e4c00078(httpserver)/1407192610363226298" />
+              </errorMarker>
+              <errorMarker text="" propertyCell="false" cellId="Error_1ltshm_a0" cellNumber="0" isInList="false">
+                <node node_reference="r:c929ffe9-4127-4e89-8292-1679e4c00078(httpserver)/1407192610363544199" />
+              </errorMarker>
+            </errorMarkers>
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:c929ffe9-4127-4e89-8292-1679e4c00078(httpserver)/1407192610363460497" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Testing/Testing.cbmcCheck/main">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="selectionEnd" value="4" />
+                <property name="hasNonTrivialSelection" value="true" />
+                <property name="caretXRelative" value="28" />
+                <property name="selectionStart" value="0" />
+                <property name="caretX" value="170" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="FS_property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:0ceb4f5b-e39b-4f5e-828e-8842549328bf(Testing.cbmcCheck)/3357489847780518767" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:0ceb4f5b-e39b-4f5e-828e-8842549328bf(Testing.cbmcCheck)/3357489847780518767" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Testing/Testing.cbmcCheck/BuildConfiguration (T.cbmcCheck)">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="28" />
+                <property name="caretX" value="95" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_gdb" cellNumber="0" isInList="false">
+                  <node node_reference="r:0ceb4f5b-e39b-4f5e-828e-8842549328bf(Testing.cbmcCheck)/3357489847781147272" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <folded />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:0ceb4f5b-e39b-4f5e-828e-8842549328bf(Testing.cbmcCheck)/3357489847780518767" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
